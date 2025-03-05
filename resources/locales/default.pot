@@ -1,0 +1,995 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2025-03-03 12:06+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./src/Controller/Admin/GalleriesController.php:43
+#: ./src/Controller/Admin/MembersController.php:55
+#: ./src/Controller/Admin/MessagesController.php:44
+#: ./src/Controller/Admin/MyUsersController.php:73
+#: ./src/Controller/Admin/PhotosController.php:43
+#: ./src/Controller/Admin/PostsController.php:55
+#: ./src/Controller/Admin/_PostsController.php:43
+msgid "Browse the"
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:43
+#: ./templates/Admin/Galleries/index.php:30
+msgid "Galleries"
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:203
+#: ./src/Controller/Admin/MembersController.php:215
+#: ./src/Controller/Admin/MessagesController.php:186
+#: ./src/Controller/Admin/MyUsersController.php:224
+#: ./src/Controller/Admin/PhotosController.php:204
+#: ./src/Controller/Admin/PostsController.php:216
+#: ./src/Controller/Admin/_PostsController.php:203
+msgid "View the"
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:203
+#: ./src/Controller/Admin/GalleriesController.php:222
+#: ./src/Controller/Admin/GalleriesController.php:271
+msgid "gallery"
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:203
+#: ./src/Controller/Admin/GalleriesController.php:222
+#: ./src/Controller/Admin/GalleriesController.php:271
+#: ./src/Controller/Admin/MembersController.php:215
+#: ./src/Controller/Admin/MembersController.php:234
+#: ./src/Controller/Admin/MembersController.php:338
+#: ./src/Controller/Admin/MessagesController.php:186
+#: ./src/Controller/Admin/MessagesController.php:213
+#: ./src/Controller/Admin/MessagesController.php:243
+#: ./src/Controller/Admin/MyUsersController.php:224
+#: ./src/Controller/Admin/MyUsersController.php:245
+#: ./src/Controller/Admin/MyUsersController.php:276
+#: ./src/Controller/Admin/PhotosController.php:204
+#: ./src/Controller/Admin/PhotosController.php:223
+#: ./src/Controller/Admin/PhotosController.php:273
+#: ./src/Controller/Admin/PostsController.php:216
+#: ./src/Controller/Admin/PostsController.php:235
+#: ./src/Controller/Admin/PostsController.php:352
+#: ./src/Controller/Admin/_PostsController.php:203
+#: ./src/Controller/Admin/_PostsController.php:222
+#: ./src/Controller/Admin/_PostsController.php:271
+msgid "record"
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:222
+#: ./src/Controller/Admin/MembersController.php:234
+#: ./src/Controller/Admin/MessagesController.php:213
+#: ./src/Controller/Admin/MyUsersController.php:245
+#: ./src/Controller/Admin/PhotosController.php:223
+#: ./src/Controller/Admin/PostsController.php:235
+#: ./src/Controller/Admin/_PostsController.php:222
+msgid "Add new"
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:232
+#: ./src/Controller/Admin/GalleriesController.php:282
+#: ./src/Controller/Admin/MembersController.php:286
+#: ./src/Controller/Admin/MembersController.php:424
+#: ./src/Controller/Admin/PhotosController.php:233
+#: ./src/Controller/Admin/PhotosController.php:284
+#: ./src/Controller/Admin/PostsController.php:294
+#: ./src/Controller/Admin/PostsController.php:456
+#: ./src/Controller/Admin/_PostsController.php:232
+#: ./src/Controller/Admin/_PostsController.php:282
+msgid "The save has been: OK"
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:244
+#: ./src/Controller/Admin/GalleriesController.php:293
+#: ./src/Controller/Admin/MembersController.php:310
+#: ./src/Controller/Admin/MembersController.php:454
+#: ./src/Controller/Admin/PhotosController.php:245
+#: ./src/Controller/Admin/PhotosController.php:295
+#: ./src/Controller/Admin/PostsController.php:320
+#: ./src/Controller/Admin/PostsController.php:486
+#: ./src/Controller/Admin/_PostsController.php:244
+#: ./src/Controller/Admin/_PostsController.php:293
+msgid "The save has been not. Please check the datas and try again."
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:271
+#: ./src/Controller/Admin/MembersController.php:338
+#: ./src/Controller/Admin/MessagesController.php:243
+#: ./src/Controller/Admin/MyUsersController.php:276
+#: ./src/Controller/Admin/PhotosController.php:273
+#: ./src/Controller/Admin/PostsController.php:352
+#: ./src/Controller/Admin/_PostsController.php:271
+msgid "Edit the"
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:320
+#: ./src/Controller/Admin/MembersController.php:489
+#: ./src/Controller/Admin/PhotosController.php:323
+#: ./src/Controller/Admin/PostsController.php:525
+#: ./src/Controller/Admin/_PostsController.php:320
+msgid "The has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/GalleriesController.php:323
+#: ./src/Controller/Admin/MembersController.php:492
+#: ./src/Controller/Admin/PhotosController.php:326
+#: ./src/Controller/Admin/PostsController.php:528
+#: ./src/Controller/Admin/_PostsController.php:323
+msgid "The has been deleted. Please check the datas and try again."
+msgstr ""
+
+#: ./src/Controller/Admin/MembersController.php:55
+#: ./templates/Admin/Members/index.php:30
+msgid "Members"
+msgstr ""
+
+#: ./src/Controller/Admin/MembersController.php:215
+#: ./src/Controller/Admin/MembersController.php:234
+#: ./src/Controller/Admin/MembersController.php:338
+msgid "member"
+msgstr ""
+
+#: ./src/Controller/Admin/MembersController.php:244
+#: ./src/Controller/Admin/PostsController.php:247
+msgid "Please select an image file!"
+msgstr ""
+
+#: ./src/Controller/Admin/MessagesController.php:44
+#: ./templates/Admin/Messages/index.php:36
+msgid "Messages"
+msgstr ""
+
+#: ./src/Controller/Admin/MessagesController.php:186
+#: ./src/Controller/Admin/MessagesController.php:213
+#: ./src/Controller/Admin/MessagesController.php:243
+msgid "message"
+msgstr ""
+
+#: ./src/Controller/Admin/MessagesController.php:218
+#: ./src/Controller/Admin/MessagesController.php:250
+msgid "The message has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/MessagesController.php:223
+#: ./src/Controller/Admin/MessagesController.php:260
+msgid "The message could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/MessagesController.php:282
+msgid "The message has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/MessagesController.php:284
+msgid "The message could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/MyUsersController.php:65
+#: ./src/Controller/Admin/MyUsersController.php:220
+#: ./src/Controller/Admin/MyUsersController.php:241
+#: ./src/Controller/Admin/MyUsersController.php:272
+#: ./src/Controller/Admin/MyUsersController.php:311
+msgid "You do not have permission to perform this operation!"
+msgstr ""
+
+#: ./src/Controller/Admin/MyUsersController.php:73
+msgid "MyUsers"
+msgstr ""
+
+#: ./src/Controller/Admin/MyUsersController.php:224
+#: ./src/Controller/Admin/MyUsersController.php:245
+#: ./src/Controller/Admin/MyUsersController.php:276
+msgid "myUser"
+msgstr ""
+
+#: ./src/Controller/Admin/MyUsersController.php:250
+#: ./src/Controller/Admin/MyUsersController.php:283
+msgid "The my user has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/MyUsersController.php:255
+#: ./src/Controller/Admin/MyUsersController.php:293
+msgid "The my user could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/MyUsersController.php:319
+msgid "The my user has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/MyUsersController.php:321
+msgid "The my user could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/PhotosController.php:43
+#: ./templates/Admin/Galleries/view.php:61
+#: ./templates/Admin/Galleries/view.php:171
+#: ./templates/Admin/Photos/index.php:30
+msgid "Photos"
+msgstr ""
+
+#: ./src/Controller/Admin/PhotosController.php:204
+#: ./src/Controller/Admin/PhotosController.php:223
+#: ./src/Controller/Admin/PhotosController.php:273
+msgid "photo"
+msgstr ""
+
+#: ./src/Controller/Admin/PostsController.php:55
+#: ./src/Controller/Admin/_PostsController.php:43
+#: ./templates/Admin/Posts/index.php:30
+msgid "Posts"
+msgstr ""
+
+#: ./src/Controller/Admin/PostsController.php:216
+#: ./src/Controller/Admin/PostsController.php:235
+#: ./src/Controller/Admin/PostsController.php:352
+#: ./src/Controller/Admin/_PostsController.php:203
+#: ./src/Controller/Admin/_PostsController.php:222
+#: ./src/Controller/Admin/_PostsController.php:271
+msgid "post"
+msgstr ""
+
+#: ./src/Controller/MessagesController.php:91
+msgid "The message has been sent."
+msgstr ""
+
+#: ./src/Controller/MessagesController.php:93
+#: ./src/Controller/MessagesController.php:103
+msgid "The message could not be sent. Please, try again."
+msgstr ""
+
+#: ./src/Model/Table/MessagesTable.php:97
+msgid "You entered a wrong security code"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:12
+#: ./templates/Admin/Galleries/add.php:20
+#: ./templates/Admin/Members/add.php:12
+#: ./templates/Admin/Members/add.php:20
+#: ./templates/Admin/Messages/add.php:12
+#: ./templates/Admin/Messages/add.php:20
+#: ./templates/Admin/Photos/add.php:13
+#: ./templates/Admin/Photos/add.php:21
+#: ./templates/Admin/Posts/add.php:13
+#: ./templates/Admin/Posts/add.php:21
+msgid "Add"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:12
+#: ./templates/Admin/Galleries/add.php:20
+#: ./templates/Admin/Galleries/edit.php:12
+#: ./templates/Admin/Galleries/edit.php:20
+#: ./templates/Admin/Galleries/view.php:31
+#: ./templates/Admin/Photos/view.php:77
+msgid "Gallery"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:21
+#: ./templates/Admin/Galleries/edit.php:21
+#: ./templates/Admin/Galleries/view.php:32
+#: ./templates/Admin/Members/add.php:21
+#: ./templates/Admin/Members/edit.php:21
+#: ./templates/Admin/Members/view.php:32
+#: ./templates/Admin/Messages/add.php:21
+#: ./templates/Admin/Messages/edit.php:21
+#: ./templates/Admin/Messages/view.php:32
+#: ./templates/Admin/MyUsers/add.php:21
+#: ./templates/Admin/MyUsers/edit.php:21
+#: ./templates/Admin/MyUsers/view.php:32
+#: ./templates/Admin/Photos/add.php:22
+#: ./templates/Admin/Photos/edit.php:22
+#: ./templates/Admin/Photos/view.php:32
+#: ./templates/Admin/Posts/add.php:22
+#: ./templates/Admin/Posts/edit.php:22
+#: ./templates/Admin/Posts/view.php:32
+msgid "The data marked with <span class=\"fw-bold text-danger\">*</span> must be provided!"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:35
+#: ./templates/Admin/Galleries/edit.php:35
+#: ./templates/Admin/Galleries/view.php:44
+#: ./templates/Admin/Members/add.php:35
+#: ./templates/Admin/Members/edit.php:35
+#: ./templates/Admin/Members/view.php:44
+#: ./templates/Admin/Messages/add.php:35
+#: ./templates/Admin/Messages/edit.php:35
+#: ./templates/Admin/Messages/view.php:44
+#: ./templates/Admin/MyUsers/add.php:35
+#: ./templates/Admin/MyUsers/edit.php:35
+#: ./templates/Admin/MyUsers/view.php:44
+#: ./templates/Admin/Photos/add.php:36
+#: ./templates/Admin/Photos/edit.php:36
+#: ./templates/Admin/Photos/view.php:44
+#: ./templates/Admin/Posts/add.php:36
+#: ./templates/Admin/Posts/edit.php:36
+#: ./templates/Admin/Posts/view.php:44
+msgid "Basic data"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:39
+#: ./templates/Admin/Galleries/edit.php:39
+#: ./templates/Admin/Galleries/view.php:48
+#: ./templates/Admin/Galleries/view.php:198
+#: ./templates/Admin/Messages/add.php:39
+#: ./templates/Admin/Messages/edit.php:39
+#: ./templates/Admin/Photos/add.php:40
+#: ./templates/Admin/Photos/edit.php:40
+#: ./templates/Admin/Photos/view.php:48
+#: ./templates/Admin/Posts/view.php:48
+msgid "Body"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:68
+#: ./templates/Admin/Galleries/add.php:70
+#: ./templates/Admin/Galleries/edit.php:68
+#: ./templates/Admin/Galleries/edit.php:70
+#: ./templates/Admin/Galleries/view.php:85
+#: ./templates/Admin/Galleries/view.php:197
+#: ./templates/Admin/Members/add.php:77
+#: ./templates/Admin/Members/add.php:79
+#: ./templates/Admin/Members/edit.php:77
+#: ./templates/Admin/Members/edit.php:79
+#: ./templates/Admin/Members/view.php:84
+#: ./templates/Admin/Messages/add.php:68
+#: ./templates/Admin/Messages/add.php:70
+#: ./templates/Admin/Messages/edit.php:68
+#: ./templates/Admin/Messages/edit.php:70
+#: ./templates/Admin/Messages/view.php:77
+#: ./templates/Admin/Photos/add.php:78
+#: ./templates/Admin/Photos/add.php:80
+#: ./templates/Admin/Photos/edit.php:78
+#: ./templates/Admin/Photos/edit.php:80
+#: ./templates/Admin/Photos/view.php:83
+#: ./templates/Admin/Posts/add.php:93
+#: ./templates/Admin/Posts/add.php:95
+#: ./templates/Admin/Posts/edit.php:93
+#: ./templates/Admin/Posts/edit.php:95
+#: ./templates/Admin/Posts/view.php:86
+msgid "Name"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:86
+#: ./templates/Admin/Galleries/add.php:88
+#: ./templates/Admin/Galleries/edit.php:86
+#: ./templates/Admin/Galleries/edit.php:88
+#: ./templates/Admin/Galleries/view.php:203
+#: ./templates/Admin/Members/add.php:140
+#: ./templates/Admin/Members/add.php:142
+#: ./templates/Admin/Members/edit.php:140
+#: ./templates/Admin/Members/edit.php:142
+#: ./templates/Admin/Photos/add.php:96
+#: ./templates/Admin/Photos/add.php:98
+#: ./templates/Admin/Photos/edit.php:96
+#: ./templates/Admin/Photos/edit.php:98
+#: ./templates/Admin/Posts/add.php:131
+#: ./templates/Admin/Posts/add.php:133
+#: ./templates/Admin/Posts/edit.php:131
+#: ./templates/Admin/Posts/edit.php:133
+msgid "Pos"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:119
+#: ./templates/Admin/Galleries/edit.php:119
+#: ./templates/Admin/Members/add.php:181
+#: ./templates/Admin/Members/edit.php:180
+#: ./templates/Admin/Messages/add.php:128
+#: ./templates/Admin/Messages/edit.php:130
+#: ./templates/Admin/MyUsers/add.php:267
+#: ./templates/Admin/MyUsers/edit.php:267
+#: ./templates/Admin/Photos/add.php:129
+#: ./templates/Admin/Photos/edit.php:129
+#: ./templates/Admin/Posts/add.php:194
+#: ./templates/Admin/Posts/edit.php:193
+msgid "Save"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:121
+#: ./templates/Admin/Galleries/edit.php:121
+#: ./templates/Admin/Galleries/index.php:135
+#: ./templates/Admin/Members/add.php:183
+#: ./templates/Admin/Members/edit.php:182
+#: ./templates/Admin/Members/index.php:147
+#: ./templates/Admin/Messages/add.php:130
+#: ./templates/Admin/Messages/edit.php:132
+#: ./templates/Admin/Messages/index.php:135
+#: ./templates/Admin/MyUsers/add.php:269
+#: ./templates/Admin/MyUsers/edit.php:269
+#: ./templates/Admin/MyUsers/index.php:164
+#: ./templates/Admin/Photos/add.php:131
+#: ./templates/Admin/Photos/edit.php:131
+#: ./templates/Admin/Photos/index.php:137
+#: ./templates/Admin/Posts/add.php:196
+#: ./templates/Admin/Posts/edit.php:195
+#: ./templates/Admin/Posts/index.php:143
+#: ./templates/plugin/CakeDC/Users/Users/change_password.php:67
+msgid "Cancel"
+msgstr ""
+
+#: ./templates/Admin/Galleries/add.php:178
+#: ./templates/Admin/Galleries/edit.php:178
+#: ./templates/Admin/Members/add.php:240
+#: ./templates/Admin/Members/edit.php:239
+#: ./templates/Admin/Messages/add.php:185
+#: ./templates/Admin/Messages/edit.php:187
+#: ./templates/Admin/Photos/add.php:189
+#: ./templates/Admin/Photos/edit.php:189
+#: ./templates/Admin/Posts/add.php:254
+#: ./templates/Admin/Posts/add.php:255
+#: ./templates/Admin/Posts/edit.php:253
+#: ./templates/Admin/Posts/edit.php:254
+msgid "Here you can write the note"
+msgstr ""
+
+#: ./templates/Admin/Galleries/edit.php:12
+#: ./templates/Admin/Galleries/edit.php:20
+#: ./templates/Admin/Members/edit.php:12
+#: ./templates/Admin/Members/edit.php:20
+#: ./templates/Admin/Messages/edit.php:12
+#: ./templates/Admin/Messages/edit.php:20
+#: ./templates/Admin/MyUsers/add.php:12
+#: ./templates/Admin/MyUsers/add.php:20
+#: ./templates/Admin/MyUsers/edit.php:12
+#: ./templates/Admin/MyUsers/edit.php:20
+#: ./templates/Admin/Photos/edit.php:13
+#: ./templates/Admin/Photos/edit.php:21
+#: ./templates/Admin/Posts/edit.php:13
+#: ./templates/Admin/Posts/edit.php:21
+msgid "Edit"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:30
+#: ./templates/Admin/Members/index.php:30
+#: ./templates/Admin/Messages/index.php:36
+#: ./templates/Admin/MyUsers/index.php:35
+#: ./templates/Admin/Photos/index.php:30
+#: ./templates/Admin/Posts/index.php:30
+msgid "Table"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:33
+#: ./templates/Admin/Members/index.php:33
+#: ./templates/Admin/Messages/index.php:39
+#: ./templates/Admin/MyUsers/index.php:38
+#: ./templates/Admin/Photos/index.php:33
+#: ./templates/Admin/Posts/index.php:33
+msgid "Double clik to edit row"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:36
+#: ./templates/Admin/Members/index.php:36
+#: ./templates/Admin/Messages/index.php:42
+#: ./templates/Admin/MyUsers/index.php:41
+#: ./templates/Admin/Photos/index.php:36
+#: ./templates/Admin/Posts/index.php:36
+msgid "Double clik to view row"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:86
+#: ./templates/Admin/Galleries/view.php:211
+#: ./templates/Admin/Members/index.php:89
+#: ./templates/Admin/Messages/index.php:90
+#: ./templates/Admin/MyUsers/index.php:102
+#: ./templates/Admin/MyUsers/view.php:260
+#: ./templates/Admin/Photos/index.php:87
+#: ./templates/Admin/Posts/index.php:90
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:126
+#: ./templates/Admin/Galleries/view.php:237
+#: ./templates/Admin/Members/index.php:138
+#: ./templates/Admin/Messages/index.php:127
+#: ./templates/Admin/MyUsers/index.php:155
+#: ./templates/Admin/MyUsers/view.php:289
+#: ./templates/Admin/Photos/index.php:128
+#: ./templates/Admin/Posts/index.php:134
+msgid "View this item"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:130
+#: ./templates/Admin/Galleries/view.php:238
+#: ./templates/Admin/Members/index.php:142
+#: ./templates/Admin/Messages/index.php:130
+#: ./templates/Admin/MyUsers/index.php:159
+#: ./templates/Admin/MyUsers/view.php:290
+#: ./templates/Admin/Photos/index.php:132
+#: ./templates/Admin/Posts/index.php:138
+msgid "Edit this item"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:135
+#: ./templates/Admin/Members/index.php:147
+#: ./templates/Admin/Messages/index.php:135
+#: ./templates/Admin/MyUsers/index.php:164
+#: ./templates/Admin/Photos/index.php:137
+#: ./templates/Admin/Posts/index.php:143
+msgid "Delete this record!"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:135
+#: ./templates/Admin/Members/index.php:147
+#: ./templates/Admin/Messages/index.php:135
+#: ./templates/Admin/MyUsers/index.php:164
+#: ./templates/Admin/Photos/index.php:137
+#: ./templates/Admin/Posts/index.php:143
+msgid "You will not be able to revert this!"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:135
+#: ./templates/Admin/Members/index.php:147
+#: ./templates/Admin/Messages/index.php:135
+#: ./templates/Admin/MyUsers/index.php:164
+#: ./templates/Admin/Photos/index.php:137
+#: ./templates/Admin/Posts/index.php:143
+msgid "Yes, delete it!"
+msgstr ""
+
+#: ./templates/Admin/Galleries/index.php:150
+#: ./templates/Admin/Members/index.php:162
+#: ./templates/Admin/Messages/index.php:150
+#: ./templates/Admin/MyUsers/index.php:179
+#: ./templates/Admin/Photos/index.php:152
+#: ./templates/Admin/Posts/index.php:158
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:31
+#: ./templates/Admin/Members/view.php:31
+#: ./templates/Admin/Messages/view.php:31
+#: ./templates/Admin/MyUsers/view.php:31
+#: ./templates/Admin/Photos/view.php:31
+#: ./templates/Admin/Posts/view.php:31
+#: ./templates/plugin/CakeDC/Users/Users/view.php:25
+msgid "View"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:58
+#: ./templates/Admin/Galleries/view.php:160
+#: ./templates/Admin/MyUsers/view.php:55
+#: ./templates/Admin/MyUsers/view.php:210
+msgid "Related tables"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:78
+#: ./templates/Admin/Members/view.php:70
+#: ./templates/Admin/Messages/view.php:70
+#: ./templates/Admin/MyUsers/view.php:75
+#: ./templates/Admin/Photos/view.php:70
+#: ./templates/Admin/Posts/view.php:73
+#: ./templates/plugin/CakeDC/Users/Users/view.php:52
+msgid "id"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:161
+#: ./templates/Admin/MyUsers/view.php:211
+msgid "Here you can see the latest records related to the above item."
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:194
+#: ./templates/Admin/Members/view.php:77
+#: ./templates/Admin/MyUsers/view.php:82
+#: ./templates/Admin/MyUsers/view.php:240
+msgid "Id"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:196
+#: ./templates/Admin/Photos/add.php:69
+#: ./templates/Admin/Photos/add.php:71
+#: ./templates/Admin/Photos/edit.php:69
+#: ./templates/Admin/Photos/edit.php:71
+msgid "Gallery Id"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:200
+msgid "Visible"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:206
+#: ./templates/Admin/MyUsers/view.php:255
+msgid "Created"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:209
+#: ./templates/Admin/MyUsers/view.php:258
+msgid "Modified"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:239
+#: ./templates/Admin/MyUsers/view.php:291
+msgid "Delete this item"
+msgstr ""
+
+#: ./templates/Admin/Galleries/view.php:239
+#: ./templates/Admin/MyUsers/view.php:291
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/Admin/Members/add.php:12
+#: ./templates/Admin/Members/add.php:20
+#: ./templates/Admin/Members/edit.php:12
+#: ./templates/Admin/Members/edit.php:20
+#: ./templates/Admin/Members/view.php:31
+msgid "Member"
+msgstr ""
+
+#: ./templates/Admin/Members/add.php:68
+#: ./templates/Admin/Members/edit.php:68
+#: ./templates/Admin/Posts/add.php:73
+#: ./templates/Admin/Posts/edit.php:73
+msgid "Image"
+msgstr ""
+
+#: ./templates/Admin/Members/add.php:86
+#: ./templates/Admin/Members/add.php:88
+#: ./templates/Admin/Members/edit.php:86
+#: ./templates/Admin/Members/edit.php:88
+#: ./templates/Admin/Members/view.php:91
+msgid "About Title"
+msgstr ""
+
+#: ./templates/Admin/Members/add.php:95
+#: ./templates/Admin/Members/add.php:97
+#: ./templates/Admin/Members/edit.php:95
+#: ./templates/Admin/Members/edit.php:97
+#: ./templates/Admin/Members/view.php:98
+msgid "Link Facebook"
+msgstr ""
+
+#: ./templates/Admin/Members/add.php:104
+#: ./templates/Admin/Members/add.php:106
+#: ./templates/Admin/Members/edit.php:104
+#: ./templates/Admin/Members/edit.php:106
+#: ./templates/Admin/Members/view.php:105
+msgid "Link Twitter"
+msgstr ""
+
+#: ./templates/Admin/Members/add.php:113
+#: ./templates/Admin/Members/add.php:115
+#: ./templates/Admin/Members/edit.php:113
+#: ./templates/Admin/Members/edit.php:115
+#: ./templates/Admin/Members/view.php:112
+msgid "Link Instagram"
+msgstr ""
+
+#: ./templates/Admin/Members/add.php:122
+#: ./templates/Admin/Members/add.php:124
+#: ./templates/Admin/Members/edit.php:122
+#: ./templates/Admin/Members/edit.php:124
+#: ./templates/Admin/Members/view.php:119
+msgid "Link Linkedin"
+msgstr ""
+
+#: ./templates/Admin/Members/add.php:148
+#: ./templates/Admin/Members/edit.php:148
+#: ./templates/Admin/Members/view.php:48
+#: ./templates/element/header.php:43
+msgid "About"
+msgstr ""
+
+#: ./templates/Admin/Messages/add.php:12
+#: ./templates/Admin/Messages/add.php:20
+#: ./templates/Admin/Messages/edit.php:12
+#: ./templates/Admin/Messages/edit.php:20
+#: ./templates/Admin/Messages/view.php:31
+#: ./templates/Admin/Messages/view.php:98
+msgid "Message"
+msgstr ""
+
+#: ./templates/Admin/Messages/add.php:77
+#: ./templates/Admin/Messages/add.php:79
+#: ./templates/Admin/Messages/edit.php:77
+#: ./templates/Admin/Messages/edit.php:79
+#: ./templates/Admin/Messages/view.php:84
+#: ./templates/Admin/MyUsers/add.php:83
+#: ./templates/Admin/MyUsers/add.php:85
+#: ./templates/Admin/MyUsers/edit.php:83
+#: ./templates/Admin/MyUsers/edit.php:85
+#: ./templates/Admin/MyUsers/view.php:96
+#: ./templates/Messages/add.php:29
+#: ./templates/plugin/CakeDC/Users/Users/request_reset_password.php:33
+msgid "Email"
+msgstr ""
+
+#: ./templates/Admin/Messages/add.php:86
+#: ./templates/Admin/Messages/add.php:88
+#: ./templates/Admin/Messages/edit.php:86
+#: ./templates/Admin/Messages/edit.php:88
+#: ./templates/Admin/Messages/view.php:91
+msgid "Subject"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/add.php:12
+#: ./templates/Admin/MyUsers/add.php:20
+#: ./templates/Admin/MyUsers/edit.php:12
+#: ./templates/Admin/MyUsers/edit.php:20
+#: ./templates/Admin/MyUsers/view.php:31
+msgid "User"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/add.php:74
+#: ./templates/Admin/MyUsers/edit.php:74
+#: ./templates/Admin/MyUsers/view.php:117
+msgid "Role"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/add.php:93
+#: ./templates/Admin/MyUsers/add.php:95
+#: ./templates/plugin/CakeDC/Users/Users/login.php:23
+msgid "Password"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/add.php:103
+#: ./templates/Admin/MyUsers/add.php:105
+#: ./templates/Admin/MyUsers/edit.php:103
+#: ./templates/Admin/MyUsers/edit.php:105
+#: ./templates/Admin/MyUsers/view.php:103
+msgid "First Name"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/add.php:112
+#: ./templates/Admin/MyUsers/add.php:114
+#: ./templates/Admin/MyUsers/edit.php:112
+#: ./templates/Admin/MyUsers/edit.php:114
+#: ./templates/Admin/MyUsers/view.php:110
+msgid "Last Name"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/index.php:35
+#: ./templates/plugin/CakeDC/Users/Users/index.php:30
+msgid "Users"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:58
+#: ./templates/Admin/MyUsers/view.php:219
+msgid "Social Accounts"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:89
+#: ./templates/Admin/MyUsers/view.php:244
+msgid "Username"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:124
+msgid "Activation Date"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:131
+msgid "Tos Date"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:138
+msgid "Last Login"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:145
+msgid "Secret Verified"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:152
+#: ./templates/Admin/MyUsers/view.php:252
+msgid "Active"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:159
+msgid "Is Superuser"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:242
+msgid "User Id"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:243
+msgid "Provider"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:245
+msgid "Reference"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:246
+msgid "Avatar"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:247
+msgid "Description"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:248
+msgid "Link"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:249
+msgid "Token"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:250
+msgid "Token Secret"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:251
+msgid "Token Expires"
+msgstr ""
+
+#: ./templates/Admin/MyUsers/view.php:253
+msgid "Data"
+msgstr ""
+
+#: ./templates/Admin/Photos/add.php:13
+#: ./templates/Admin/Photos/add.php:21
+#: ./templates/Admin/Photos/edit.php:13
+#: ./templates/Admin/Photos/edit.php:21
+#: ./templates/Admin/Photos/view.php:31
+msgid "Photo"
+msgstr ""
+
+#: ./templates/Admin/Posts/add.php:13
+#: ./templates/Admin/Posts/add.php:21
+#: ./templates/Admin/Posts/edit.php:13
+#: ./templates/Admin/Posts/edit.php:21
+#: ./templates/Admin/Posts/view.php:31
+msgid "Post"
+msgstr ""
+
+#: ./templates/Admin/Posts/add.php:140
+#: ./templates/Admin/Posts/edit.php:139
+msgid "Content"
+msgstr ""
+
+#: ./templates/Admin/Posts/add.php:149
+#: ./templates/Admin/Posts/edit.php:147
+#: ./templates/Admin/Posts/view.php:51
+msgid "More"
+msgstr ""
+
+#: ./templates/Admin/Posts/view.php:80
+msgid "My User"
+msgstr ""
+
+#: ./templates/Admin/Posts/view.php:93
+msgid "Slug"
+msgstr ""
+
+#: ./templates/Admin/Posts/view.php:100
+msgid "Show In Main Page"
+msgstr ""
+
+#: ./templates/Messages/add.php:1
+#: ./templates/element/header.php:66
+#: ./templates/layout/default.php:107
+msgid "Contact"
+msgstr ""
+
+#: ./templates/Messages/add.php:23
+msgid "Location"
+msgstr ""
+
+#: ./templates/Messages/add.php:35
+msgid "Call"
+msgstr ""
+
+#: ./templates/Posts/index.php:45
+#: ./templates/Posts/view.php:44
+msgid "Read More"
+msgstr ""
+
+#: ./templates/element/breadcrumbs.php:18
+#: ./templates/element/breadcrumbs.php:27
+#: ./templates/element/header.php:42
+#: ./templates/layout/default.php:104
+msgid "Home"
+msgstr ""
+
+#: ./templates/element/cta.php:11
+msgid "Join our club!"
+msgstr ""
+
+#: ./templates/element/header.php:48
+#: ./templates/layout/default.php:106
+msgid "Blog"
+msgstr ""
+
+#: ./templates/element/sidebar.php:5
+msgid "Search"
+msgstr ""
+
+#: ./templates/element/sidebar.php:28
+msgid "Latest posts"
+msgstr ""
+
+#: ./templates/layout/default.php:105
+msgid "About us"
+msgstr ""
+
+#: ./templates/layout/default.php:114
+msgid "Cookies"
+msgstr ""
+
+#: ./templates/layout/default.php:115
+msgid "Terms of service"
+msgstr ""
+
+#: ./templates/layout/default.php:116
+msgid "Privacy policy"
+msgstr ""
+
+#: ./templates/layout/error.php:36
+msgid "Back"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:21
+msgid "Channels"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/change_password.php:21
+msgid "Change Password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/index.php:30
+msgid "Index"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/index.php:32
+msgid "filter"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/index.php:79
+msgid "View this user"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/index.php:83
+msgid "Edit this user"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/login.php:10
+msgid "Login"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/login.php:16
+#: ./templates/plugin/CakeDC/Users/Users/login.php:37
+msgid "Sign In"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/login.php:18
+msgid "E-mail cím"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/login.php:20
+msgid "E-mail"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/login.php:20
+#: ./templates/plugin/CakeDC/Users/Users/login.php:24
+msgid "Input valid email"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/login.php:24
+msgid "Input valid password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/profile.php:54
+msgid "Back to Admin"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/register.php:21
+msgid "Sign Up"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/view.php:61
+msgid "Fullname"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/view.php:154
+msgid "Back to list"
+msgstr ""
+

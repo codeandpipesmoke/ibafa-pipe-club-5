@@ -1,0 +1,1775 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-03-03 12:06+0000\n"
+"PO-Revision-Date: 2025-03-03 13:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: src/Controller/Admin/GalleriesController.php:43
+#: src/Controller/Admin/MembersController.php:55
+#: src/Controller/Admin/MessagesController.php:44
+#: src/Controller/Admin/MyUsersController.php:73
+#: src/Controller/Admin/PhotosController.php:43
+#: src/Controller/Admin/PostsController.php:55
+#: src/Controller/Admin/_PostsController.php:43
+msgid "Browse the"
+msgstr "Tallózás"
+
+#: src/Controller/Admin/GalleriesController.php:43
+#: templates/Admin/Galleries/index.php:30
+msgid "Galleries"
+msgstr "Galéria"
+
+#: src/Controller/Admin/GalleriesController.php:203
+#: src/Controller/Admin/MembersController.php:215
+#: src/Controller/Admin/MessagesController.php:186
+#: src/Controller/Admin/MyUsersController.php:224
+#: src/Controller/Admin/PhotosController.php:204
+#: src/Controller/Admin/PostsController.php:216
+#: src/Controller/Admin/_PostsController.php:203
+msgid "View the"
+msgstr "Megnéz"
+
+#: src/Controller/Admin/GalleriesController.php:203
+#: src/Controller/Admin/GalleriesController.php:222
+#: src/Controller/Admin/GalleriesController.php:271
+msgid "gallery"
+msgstr "galéria"
+
+#: src/Controller/Admin/GalleriesController.php:203
+#: src/Controller/Admin/GalleriesController.php:222
+#: src/Controller/Admin/GalleriesController.php:271
+#: src/Controller/Admin/MembersController.php:215
+#: src/Controller/Admin/MembersController.php:234
+#: src/Controller/Admin/MembersController.php:338
+#: src/Controller/Admin/MessagesController.php:186
+#: src/Controller/Admin/MessagesController.php:213
+#: src/Controller/Admin/MessagesController.php:243
+#: src/Controller/Admin/MyUsersController.php:224
+#: src/Controller/Admin/MyUsersController.php:245
+#: src/Controller/Admin/MyUsersController.php:276
+#: src/Controller/Admin/PhotosController.php:204
+#: src/Controller/Admin/PhotosController.php:223
+#: src/Controller/Admin/PhotosController.php:273
+#: src/Controller/Admin/PostsController.php:216
+#: src/Controller/Admin/PostsController.php:235
+#: src/Controller/Admin/PostsController.php:352
+#: src/Controller/Admin/_PostsController.php:203
+#: src/Controller/Admin/_PostsController.php:222
+#: src/Controller/Admin/_PostsController.php:271
+msgid "record"
+msgstr "sor"
+
+#: src/Controller/Admin/GalleriesController.php:222
+#: src/Controller/Admin/MembersController.php:234
+#: src/Controller/Admin/MessagesController.php:213
+#: src/Controller/Admin/MyUsersController.php:245
+#: src/Controller/Admin/PhotosController.php:223
+#: src/Controller/Admin/PostsController.php:235
+#: src/Controller/Admin/_PostsController.php:222
+msgid "Add new"
+msgstr "Új felvitele"
+
+#: src/Controller/Admin/GalleriesController.php:232
+#: src/Controller/Admin/GalleriesController.php:282
+#: src/Controller/Admin/MembersController.php:286
+#: src/Controller/Admin/MembersController.php:424
+#: src/Controller/Admin/PhotosController.php:233
+#: src/Controller/Admin/PhotosController.php:284
+#: src/Controller/Admin/PostsController.php:294
+#: src/Controller/Admin/PostsController.php:456
+#: src/Controller/Admin/_PostsController.php:232
+#: src/Controller/Admin/_PostsController.php:282
+msgid "The save has been: OK"
+msgstr "A mentés: OK"
+
+#: src/Controller/Admin/GalleriesController.php:244
+#: src/Controller/Admin/GalleriesController.php:293
+#: src/Controller/Admin/MembersController.php:310
+#: src/Controller/Admin/MembersController.php:454
+#: src/Controller/Admin/PhotosController.php:245
+#: src/Controller/Admin/PhotosController.php:295
+#: src/Controller/Admin/PostsController.php:320
+#: src/Controller/Admin/PostsController.php:486
+#: src/Controller/Admin/_PostsController.php:244
+#: src/Controller/Admin/_PostsController.php:293
+msgid "The save has been not. Please check the datas and try again."
+msgstr "Nem sikerült a mentés. Kérem ellenőrizze az adatok helyességét."
+
+#: src/Controller/Admin/GalleriesController.php:271
+#: src/Controller/Admin/MembersController.php:338
+#: src/Controller/Admin/MessagesController.php:243
+#: src/Controller/Admin/MyUsersController.php:276
+#: src/Controller/Admin/PhotosController.php:273
+#: src/Controller/Admin/PostsController.php:352
+#: src/Controller/Admin/_PostsController.php:271
+msgid "Edit the"
+msgstr "Módosít"
+
+#: src/Controller/Admin/GalleriesController.php:320
+#: src/Controller/Admin/MembersController.php:489
+#: src/Controller/Admin/PhotosController.php:323
+#: src/Controller/Admin/PostsController.php:525
+#: src/Controller/Admin/_PostsController.php:320
+msgid "The has been deleted."
+msgstr "Törölve."
+
+#: src/Controller/Admin/GalleriesController.php:323
+#: src/Controller/Admin/MembersController.php:492
+#: src/Controller/Admin/PhotosController.php:326
+#: src/Controller/Admin/PostsController.php:528
+#: src/Controller/Admin/_PostsController.php:323
+msgid "The has been deleted. Please check the datas and try again."
+msgstr "Nem sikerült a törlés. Kérem ellenőrizze az adatok helyességét."
+
+#: src/Controller/Admin/MembersController.php:55
+#: templates/Admin/Members/index.php:30
+msgid "Members"
+msgstr "Tagok"
+
+#: src/Controller/Admin/MembersController.php:215
+#: src/Controller/Admin/MembersController.php:234
+#: src/Controller/Admin/MembersController.php:338
+msgid "member"
+msgstr "tag"
+
+#: src/Controller/Admin/MembersController.php:244
+#: src/Controller/Admin/PostsController.php:247
+msgid "Please select an image file!"
+msgstr "Kérem válasszon képfájlt!"
+
+#: src/Controller/Admin/MessagesController.php:44
+#: templates/Admin/Messages/index.php:36
+msgid "Messages"
+msgstr "Üzenetek"
+
+#: src/Controller/Admin/MessagesController.php:186
+#: src/Controller/Admin/MessagesController.php:213
+#: src/Controller/Admin/MessagesController.php:243
+msgid "message"
+msgstr "üzenet"
+
+#: src/Controller/Admin/MessagesController.php:218
+#: src/Controller/Admin/MessagesController.php:250
+msgid "The message has been saved."
+msgstr "Üzenet mentése sikeres."
+
+#: src/Controller/Admin/MessagesController.php:223
+#: src/Controller/Admin/MessagesController.php:260
+msgid "The message could not be saved. Please, try again."
+msgstr ""
+"Az üzenetet nem sikerült menteni! Kérem nézze át az adatokat és javítsa a "
+"hibásan megadottakat."
+
+#: src/Controller/Admin/MessagesController.php:282
+msgid "The message has been deleted."
+msgstr "Üzenet törölve."
+
+#: src/Controller/Admin/MessagesController.php:284
+msgid "The message could not be deleted. Please, try again."
+msgstr "Üzenetet nem sikerült törölni."
+
+#: src/Controller/Admin/MyUsersController.php:65
+#: src/Controller/Admin/MyUsersController.php:220
+#: src/Controller/Admin/MyUsersController.php:241
+#: src/Controller/Admin/MyUsersController.php:272
+#: src/Controller/Admin/MyUsersController.php:311
+msgid "You do not have permission to perform this operation!"
+msgstr "Nincs jogosultsága a művelethez!"
+
+#: src/Controller/Admin/MyUsersController.php:73
+msgid "MyUsers"
+msgstr "Felhasználók"
+
+#: src/Controller/Admin/MyUsersController.php:224
+#: src/Controller/Admin/MyUsersController.php:245
+#: src/Controller/Admin/MyUsersController.php:276
+msgid "myUser"
+msgstr "felhasználók"
+
+#: src/Controller/Admin/MyUsersController.php:250
+#: src/Controller/Admin/MyUsersController.php:283
+msgid "The my user has been saved."
+msgstr "Felhasználó mentése: OK."
+
+#: src/Controller/Admin/MyUsersController.php:255
+#: src/Controller/Admin/MyUsersController.php:293
+msgid "The my user could not be saved. Please, try again."
+msgstr "Felhasználó mentése nem sikerült! Kérem nézze át az adatokat."
+
+#: src/Controller/Admin/MyUsersController.php:319
+msgid "The my user has been deleted."
+msgstr "Felhasználó törölve."
+
+#: src/Controller/Admin/MyUsersController.php:321
+msgid "The my user could not be deleted. Please, try again."
+msgstr "Felhasználót nem sikerült törölni."
+
+#: src/Controller/Admin/PhotosController.php:43
+#: templates/Admin/Galleries/view.php:61 templates/Admin/Galleries/view.php:171
+#: templates/Admin/Photos/index.php:30
+msgid "Photos"
+msgstr "Képek"
+
+#: src/Controller/Admin/PhotosController.php:204
+#: src/Controller/Admin/PhotosController.php:223
+#: src/Controller/Admin/PhotosController.php:273
+msgid "photo"
+msgstr "kép"
+
+#: src/Controller/Admin/PostsController.php:55
+#: src/Controller/Admin/_PostsController.php:43
+#: templates/Admin/Posts/index.php:30
+msgid "Posts"
+msgstr "Cikkek"
+
+#: src/Controller/Admin/PostsController.php:216
+#: src/Controller/Admin/PostsController.php:235
+#: src/Controller/Admin/PostsController.php:352
+#: src/Controller/Admin/_PostsController.php:203
+#: src/Controller/Admin/_PostsController.php:222
+#: src/Controller/Admin/_PostsController.php:271
+msgid "post"
+msgstr "cikk"
+
+#: src/Controller/MessagesController.php:91
+msgid "The message has been sent."
+msgstr "Üzenetét sikeresen elküldtük."
+
+#: src/Controller/MessagesController.php:93
+#: src/Controller/MessagesController.php:103
+msgid "The message could not be sent. Please, try again."
+msgstr ""
+"Üzenetét nem sikerült elküldeni. Kérem nézze át az adatokat és próbálja újra."
+
+#: src/Model/Table/MessagesTable.php:97
+msgid "You entered a wrong security code"
+msgstr "Hibás biztonsági kódot adott meg"
+
+#: templates/Admin/Galleries/add.php:12 templates/Admin/Galleries/add.php:20
+#: templates/Admin/Members/add.php:12 templates/Admin/Members/add.php:20
+#: templates/Admin/Messages/add.php:12 templates/Admin/Messages/add.php:20
+#: templates/Admin/Photos/add.php:13 templates/Admin/Photos/add.php:21
+#: templates/Admin/Posts/add.php:13 templates/Admin/Posts/add.php:21
+msgid "Add"
+msgstr "Új felvitele"
+
+#: templates/Admin/Galleries/add.php:12 templates/Admin/Galleries/add.php:20
+#: templates/Admin/Galleries/edit.php:12 templates/Admin/Galleries/edit.php:20
+#: templates/Admin/Galleries/view.php:31 templates/Admin/Photos/view.php:77
+msgid "Gallery"
+msgstr "Galéria"
+
+#: templates/Admin/Galleries/add.php:21 templates/Admin/Galleries/edit.php:21
+#: templates/Admin/Galleries/view.php:32 templates/Admin/Members/add.php:21
+#: templates/Admin/Members/edit.php:21 templates/Admin/Members/view.php:32
+#: templates/Admin/Messages/add.php:21 templates/Admin/Messages/edit.php:21
+#: templates/Admin/Messages/view.php:32 templates/Admin/MyUsers/add.php:21
+#: templates/Admin/MyUsers/edit.php:21 templates/Admin/MyUsers/view.php:32
+#: templates/Admin/Photos/add.php:22 templates/Admin/Photos/edit.php:22
+#: templates/Admin/Photos/view.php:32 templates/Admin/Posts/add.php:22
+#: templates/Admin/Posts/edit.php:22 templates/Admin/Posts/view.php:32
+msgid ""
+"The data marked with <span class=\"fw-bold text-danger\">*</span> must be "
+"provided!"
+msgstr ""
+"A <span class=\"fw-bold text-danger\">*</span>-gal jelölt adatokat kötelező "
+"megadni!"
+
+#: templates/Admin/Galleries/add.php:35 templates/Admin/Galleries/edit.php:35
+#: templates/Admin/Galleries/view.php:44 templates/Admin/Members/add.php:35
+#: templates/Admin/Members/edit.php:35 templates/Admin/Members/view.php:44
+#: templates/Admin/Messages/add.php:35 templates/Admin/Messages/edit.php:35
+#: templates/Admin/Messages/view.php:44 templates/Admin/MyUsers/add.php:35
+#: templates/Admin/MyUsers/edit.php:35 templates/Admin/MyUsers/view.php:44
+#: templates/Admin/Photos/add.php:36 templates/Admin/Photos/edit.php:36
+#: templates/Admin/Photos/view.php:44 templates/Admin/Posts/add.php:36
+#: templates/Admin/Posts/edit.php:36 templates/Admin/Posts/view.php:44
+msgid "Basic data"
+msgstr "Alapadatok"
+
+#: templates/Admin/Galleries/add.php:39 templates/Admin/Galleries/edit.php:39
+#: templates/Admin/Galleries/view.php:48 templates/Admin/Galleries/view.php:198
+#: templates/Admin/Messages/add.php:39 templates/Admin/Messages/edit.php:39
+#: templates/Admin/Photos/add.php:40 templates/Admin/Photos/edit.php:40
+#: templates/Admin/Photos/view.php:48 templates/Admin/Posts/view.php:48
+msgid "Body"
+msgstr "Szövegrész"
+
+#: templates/Admin/Galleries/add.php:68 templates/Admin/Galleries/add.php:70
+#: templates/Admin/Galleries/edit.php:68 templates/Admin/Galleries/edit.php:70
+#: templates/Admin/Galleries/view.php:85 templates/Admin/Galleries/view.php:197
+#: templates/Admin/Members/add.php:77 templates/Admin/Members/add.php:79
+#: templates/Admin/Members/edit.php:77 templates/Admin/Members/edit.php:79
+#: templates/Admin/Members/view.php:84 templates/Admin/Messages/add.php:68
+#: templates/Admin/Messages/add.php:70 templates/Admin/Messages/edit.php:68
+#: templates/Admin/Messages/edit.php:70 templates/Admin/Messages/view.php:77
+#: templates/Admin/Photos/add.php:78 templates/Admin/Photos/add.php:80
+#: templates/Admin/Photos/edit.php:78 templates/Admin/Photos/edit.php:80
+#: templates/Admin/Photos/view.php:83 templates/Admin/Posts/add.php:93
+#: templates/Admin/Posts/add.php:95 templates/Admin/Posts/edit.php:93
+#: templates/Admin/Posts/edit.php:95 templates/Admin/Posts/view.php:86
+msgid "Name"
+msgstr "Név"
+
+#: templates/Admin/Galleries/add.php:86 templates/Admin/Galleries/add.php:88
+#: templates/Admin/Galleries/edit.php:86 templates/Admin/Galleries/edit.php:88
+#: templates/Admin/Galleries/view.php:203 templates/Admin/Members/add.php:140
+#: templates/Admin/Members/add.php:142 templates/Admin/Members/edit.php:140
+#: templates/Admin/Members/edit.php:142 templates/Admin/Photos/add.php:96
+#: templates/Admin/Photos/add.php:98 templates/Admin/Photos/edit.php:96
+#: templates/Admin/Photos/edit.php:98 templates/Admin/Posts/add.php:131
+#: templates/Admin/Posts/add.php:133 templates/Admin/Posts/edit.php:131
+#: templates/Admin/Posts/edit.php:133
+msgid "Pos"
+msgstr "Pozíció"
+
+#: templates/Admin/Galleries/add.php:119 templates/Admin/Galleries/edit.php:119
+#: templates/Admin/Members/add.php:181 templates/Admin/Members/edit.php:180
+#: templates/Admin/Messages/add.php:128 templates/Admin/Messages/edit.php:130
+#: templates/Admin/MyUsers/add.php:267 templates/Admin/MyUsers/edit.php:267
+#: templates/Admin/Photos/add.php:129 templates/Admin/Photos/edit.php:129
+#: templates/Admin/Posts/add.php:194 templates/Admin/Posts/edit.php:193
+msgid "Save"
+msgstr "Mentés"
+
+#: templates/Admin/Galleries/add.php:121 templates/Admin/Galleries/edit.php:121
+#: templates/Admin/Galleries/index.php:135 templates/Admin/Members/add.php:183
+#: templates/Admin/Members/edit.php:182 templates/Admin/Members/index.php:147
+#: templates/Admin/Messages/add.php:130 templates/Admin/Messages/edit.php:132
+#: templates/Admin/Messages/index.php:135 templates/Admin/MyUsers/add.php:269
+#: templates/Admin/MyUsers/edit.php:269 templates/Admin/MyUsers/index.php:164
+#: templates/Admin/Photos/add.php:131 templates/Admin/Photos/edit.php:131
+#: templates/Admin/Photos/index.php:137 templates/Admin/Posts/add.php:196
+#: templates/Admin/Posts/edit.php:195 templates/Admin/Posts/index.php:143
+#: templates/plugin/CakeDC/Users/Users/change_password.php:67
+msgid "Cancel"
+msgstr "Mégse"
+
+#: templates/Admin/Galleries/add.php:178 templates/Admin/Galleries/edit.php:178
+#: templates/Admin/Members/add.php:240 templates/Admin/Members/edit.php:239
+#: templates/Admin/Messages/add.php:185 templates/Admin/Messages/edit.php:187
+#: templates/Admin/Photos/add.php:189 templates/Admin/Photos/edit.php:189
+#: templates/Admin/Posts/add.php:254 templates/Admin/Posts/add.php:255
+#: templates/Admin/Posts/edit.php:253 templates/Admin/Posts/edit.php:254
+msgid "Here you can write the note"
+msgstr "Ide írhatja a szöveget"
+
+#: templates/Admin/Galleries/edit.php:12 templates/Admin/Galleries/edit.php:20
+#: templates/Admin/Members/edit.php:12 templates/Admin/Members/edit.php:20
+#: templates/Admin/Messages/edit.php:12 templates/Admin/Messages/edit.php:20
+#: templates/Admin/MyUsers/add.php:12 templates/Admin/MyUsers/add.php:20
+#: templates/Admin/MyUsers/edit.php:12 templates/Admin/MyUsers/edit.php:20
+#: templates/Admin/Photos/edit.php:13 templates/Admin/Photos/edit.php:21
+#: templates/Admin/Posts/edit.php:13 templates/Admin/Posts/edit.php:21
+msgid "Edit"
+msgstr "Szerekszt"
+
+#: templates/Admin/Galleries/index.php:30 templates/Admin/Members/index.php:30
+#: templates/Admin/Messages/index.php:36 templates/Admin/MyUsers/index.php:35
+#: templates/Admin/Photos/index.php:30 templates/Admin/Posts/index.php:30
+msgid "Table"
+msgstr "Tábla"
+
+#: templates/Admin/Galleries/index.php:33 templates/Admin/Members/index.php:33
+#: templates/Admin/Messages/index.php:39 templates/Admin/MyUsers/index.php:38
+#: templates/Admin/Photos/index.php:33 templates/Admin/Posts/index.php:33
+msgid "Double clik to edit row"
+msgstr "Duplaklikk - módosítás"
+
+#: templates/Admin/Galleries/index.php:36 templates/Admin/Members/index.php:36
+#: templates/Admin/Messages/index.php:42 templates/Admin/MyUsers/index.php:41
+#: templates/Admin/Photos/index.php:36 templates/Admin/Posts/index.php:36
+msgid "Double clik to view row"
+msgstr "Duplaklikk - megnéz"
+
+#: templates/Admin/Galleries/index.php:86
+#: templates/Admin/Galleries/view.php:211 templates/Admin/Members/index.php:89
+#: templates/Admin/Messages/index.php:90 templates/Admin/MyUsers/index.php:102
+#: templates/Admin/MyUsers/view.php:260 templates/Admin/Photos/index.php:87
+#: templates/Admin/Posts/index.php:90
+msgid "Actions"
+msgstr "Akciók"
+
+#: templates/Admin/Galleries/index.php:126
+#: templates/Admin/Galleries/view.php:237 templates/Admin/Members/index.php:138
+#: templates/Admin/Messages/index.php:127 templates/Admin/MyUsers/index.php:155
+#: templates/Admin/MyUsers/view.php:289 templates/Admin/Photos/index.php:128
+#: templates/Admin/Posts/index.php:134
+msgid "View this item"
+msgstr "Tétel megtekintése"
+
+#: templates/Admin/Galleries/index.php:130
+#: templates/Admin/Galleries/view.php:238 templates/Admin/Members/index.php:142
+#: templates/Admin/Messages/index.php:130 templates/Admin/MyUsers/index.php:159
+#: templates/Admin/MyUsers/view.php:290 templates/Admin/Photos/index.php:132
+#: templates/Admin/Posts/index.php:138
+msgid "Edit this item"
+msgstr "Tétel módosítása"
+
+#: templates/Admin/Galleries/index.php:135
+#: templates/Admin/Members/index.php:147 templates/Admin/Messages/index.php:135
+#: templates/Admin/MyUsers/index.php:164 templates/Admin/Photos/index.php:137
+#: templates/Admin/Posts/index.php:143
+msgid "Delete this record!"
+msgstr "Tétel törlése!"
+
+#: templates/Admin/Galleries/index.php:135
+#: templates/Admin/Members/index.php:147 templates/Admin/Messages/index.php:135
+#: templates/Admin/MyUsers/index.php:164 templates/Admin/Photos/index.php:137
+#: templates/Admin/Posts/index.php:143
+msgid "You will not be able to revert this!"
+msgstr "Nem lehet majd visszaállítani!"
+
+#: templates/Admin/Galleries/index.php:135
+#: templates/Admin/Members/index.php:147 templates/Admin/Messages/index.php:135
+#: templates/Admin/MyUsers/index.php:164 templates/Admin/Photos/index.php:137
+#: templates/Admin/Posts/index.php:143
+msgid "Yes, delete it!"
+msgstr "Igen, törlöm!"
+
+#: templates/Admin/Galleries/index.php:150
+#: templates/Admin/Members/index.php:162 templates/Admin/Messages/index.php:150
+#: templates/Admin/MyUsers/index.php:179 templates/Admin/Photos/index.php:152
+#: templates/Admin/Posts/index.php:158
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr "Oldal: {{page}} / {{pages}}, mutat: {{current}}, összes sor: {{count}}"
+
+#: templates/Admin/Galleries/view.php:31 templates/Admin/Members/view.php:31
+#: templates/Admin/Messages/view.php:31 templates/Admin/MyUsers/view.php:31
+#: templates/Admin/Photos/view.php:31 templates/Admin/Posts/view.php:31
+#: templates/plugin/CakeDC/Users/Users/view.php:25
+msgid "View"
+msgstr "Megnéz"
+
+#: templates/Admin/Galleries/view.php:58 templates/Admin/Galleries/view.php:160
+#: templates/Admin/MyUsers/view.php:55 templates/Admin/MyUsers/view.php:210
+msgid "Related tables"
+msgstr "Kapcsolt táblák"
+
+#: templates/Admin/Galleries/view.php:78 templates/Admin/Members/view.php:70
+#: templates/Admin/Messages/view.php:70 templates/Admin/MyUsers/view.php:75
+#: templates/Admin/Photos/view.php:70 templates/Admin/Posts/view.php:73
+#: templates/plugin/CakeDC/Users/Users/view.php:52
+msgid "id"
+msgstr "id"
+
+#: templates/Admin/Galleries/view.php:161 templates/Admin/MyUsers/view.php:211
+msgid "Here you can see the latest records related to the above item."
+msgstr "Itt láthatja a fenti tételhez kapcsolódó legfrissebb rekordokat."
+
+#: templates/Admin/Galleries/view.php:194 templates/Admin/Members/view.php:77
+#: templates/Admin/MyUsers/view.php:82 templates/Admin/MyUsers/view.php:240
+msgid "Id"
+msgstr "ID"
+
+#: templates/Admin/Galleries/view.php:196 templates/Admin/Photos/add.php:69
+#: templates/Admin/Photos/add.php:71 templates/Admin/Photos/edit.php:69
+#: templates/Admin/Photos/edit.php:71
+msgid "Gallery Id"
+msgstr "Galéria id"
+
+#: templates/Admin/Galleries/view.php:200
+msgid "Visible"
+msgstr "Látható"
+
+#: templates/Admin/Galleries/view.php:206 templates/Admin/MyUsers/view.php:255
+msgid "Created"
+msgstr "Létrehozva"
+
+#: templates/Admin/Galleries/view.php:209 templates/Admin/MyUsers/view.php:258
+msgid "Modified"
+msgstr "Módosítva"
+
+#: templates/Admin/Galleries/view.php:239 templates/Admin/MyUsers/view.php:291
+msgid "Delete this item"
+msgstr "Tétel törlése"
+
+#: templates/Admin/Galleries/view.php:239 templates/Admin/MyUsers/view.php:291
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Valóban törölni szeretné # {0} ?"
+
+#: templates/Admin/Members/add.php:12 templates/Admin/Members/add.php:20
+#: templates/Admin/Members/edit.php:12 templates/Admin/Members/edit.php:20
+#: templates/Admin/Members/view.php:31
+msgid "Member"
+msgstr "Tag"
+
+#: templates/Admin/Members/add.php:68 templates/Admin/Members/edit.php:68
+#: templates/Admin/Posts/add.php:73 templates/Admin/Posts/edit.php:73
+msgid "Image"
+msgstr "Kép"
+
+#: templates/Admin/Members/add.php:86 templates/Admin/Members/add.php:88
+#: templates/Admin/Members/edit.php:86 templates/Admin/Members/edit.php:88
+#: templates/Admin/Members/view.php:91
+msgid "About Title"
+msgstr "Rólam cím"
+
+#: templates/Admin/Members/add.php:95 templates/Admin/Members/add.php:97
+#: templates/Admin/Members/edit.php:95 templates/Admin/Members/edit.php:97
+#: templates/Admin/Members/view.php:98
+msgid "Link Facebook"
+msgstr "Facebook link"
+
+#: templates/Admin/Members/add.php:104 templates/Admin/Members/add.php:106
+#: templates/Admin/Members/edit.php:104 templates/Admin/Members/edit.php:106
+#: templates/Admin/Members/view.php:105
+msgid "Link Twitter"
+msgstr "Twitter link"
+
+#: templates/Admin/Members/add.php:113 templates/Admin/Members/add.php:115
+#: templates/Admin/Members/edit.php:113 templates/Admin/Members/edit.php:115
+#: templates/Admin/Members/view.php:112
+msgid "Link Instagram"
+msgstr "Instagram link"
+
+#: templates/Admin/Members/add.php:122 templates/Admin/Members/add.php:124
+#: templates/Admin/Members/edit.php:122 templates/Admin/Members/edit.php:124
+#: templates/Admin/Members/view.php:119
+msgid "Link Linkedin"
+msgstr "Linkedin link"
+
+#: templates/Admin/Members/add.php:148 templates/Admin/Members/edit.php:148
+#: templates/Admin/Members/view.php:48 templates/element/header.php:43
+msgid "About"
+msgstr "Rólam"
+
+#: templates/Admin/Messages/add.php:12 templates/Admin/Messages/add.php:20
+#: templates/Admin/Messages/edit.php:12 templates/Admin/Messages/edit.php:20
+#: templates/Admin/Messages/view.php:31 templates/Admin/Messages/view.php:98
+msgid "Message"
+msgstr "Üzenet"
+
+#: templates/Admin/Messages/add.php:77 templates/Admin/Messages/add.php:79
+#: templates/Admin/Messages/edit.php:77 templates/Admin/Messages/edit.php:79
+#: templates/Admin/Messages/view.php:84 templates/Admin/MyUsers/add.php:83
+#: templates/Admin/MyUsers/add.php:85 templates/Admin/MyUsers/edit.php:83
+#: templates/Admin/MyUsers/edit.php:85 templates/Admin/MyUsers/view.php:96
+#: templates/Messages/add.php:29
+#: templates/plugin/CakeDC/Users/Users/request_reset_password.php:33
+msgid "Email"
+msgstr "E-mail"
+
+#: templates/Admin/Messages/add.php:86 templates/Admin/Messages/add.php:88
+#: templates/Admin/Messages/edit.php:86 templates/Admin/Messages/edit.php:88
+#: templates/Admin/Messages/view.php:91
+msgid "Subject"
+msgstr "Tárgy"
+
+#: templates/Admin/MyUsers/add.php:12 templates/Admin/MyUsers/add.php:20
+#: templates/Admin/MyUsers/edit.php:12 templates/Admin/MyUsers/edit.php:20
+#: templates/Admin/MyUsers/view.php:31
+msgid "User"
+msgstr "Felhasználó"
+
+#: templates/Admin/MyUsers/add.php:74 templates/Admin/MyUsers/edit.php:74
+#: templates/Admin/MyUsers/view.php:117
+msgid "Role"
+msgstr "Szerepkör"
+
+#: templates/Admin/MyUsers/add.php:93 templates/Admin/MyUsers/add.php:95
+#: templates/plugin/CakeDC/Users/Users/login.php:23
+msgid "Password"
+msgstr "Jelszó"
+
+#: templates/Admin/MyUsers/add.php:103 templates/Admin/MyUsers/add.php:105
+#: templates/Admin/MyUsers/edit.php:103 templates/Admin/MyUsers/edit.php:105
+#: templates/Admin/MyUsers/view.php:103
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: templates/Admin/MyUsers/add.php:112 templates/Admin/MyUsers/add.php:114
+#: templates/Admin/MyUsers/edit.php:112 templates/Admin/MyUsers/edit.php:114
+#: templates/Admin/MyUsers/view.php:110
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+#: templates/Admin/MyUsers/index.php:35
+#: templates/plugin/CakeDC/Users/Users/index.php:30
+msgid "Users"
+msgstr "Felhasználók"
+
+#: templates/Admin/MyUsers/view.php:58 templates/Admin/MyUsers/view.php:219
+msgid "Social Accounts"
+msgstr "Közösségi számlák"
+
+#: templates/Admin/MyUsers/view.php:89 templates/Admin/MyUsers/view.php:244
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: templates/Admin/MyUsers/view.php:124
+msgid "Activation Date"
+msgstr "Aktiválás dátuma"
+
+#: templates/Admin/MyUsers/view.php:131
+msgid "Tos Date"
+msgstr "TOS dátum"
+
+#: templates/Admin/MyUsers/view.php:138
+msgid "Last Login"
+msgstr "Utolsó belépés dátuma"
+
+#: templates/Admin/MyUsers/view.php:145
+msgid "Secret Verified"
+msgstr "Ellenőrizve"
+
+#: templates/Admin/MyUsers/view.php:152 templates/Admin/MyUsers/view.php:252
+msgid "Active"
+msgstr "Aktív"
+
+#: templates/Admin/MyUsers/view.php:159
+msgid "Is Superuser"
+msgstr "Superuser"
+
+#: templates/Admin/MyUsers/view.php:242
+msgid "User Id"
+msgstr "Felhasználó azonosító"
+
+#: templates/Admin/MyUsers/view.php:243
+msgid "Provider"
+msgstr "Szolgáltató"
+
+#: templates/Admin/MyUsers/view.php:245
+msgid "Reference"
+msgstr "Referencia"
+
+#: templates/Admin/MyUsers/view.php:246
+msgid "Avatar"
+msgstr "Avatár"
+
+#: templates/Admin/MyUsers/view.php:247
+msgid "Description"
+msgstr "Leírás"
+
+#: templates/Admin/MyUsers/view.php:248
+msgid "Link"
+msgstr "Link"
+
+#: templates/Admin/MyUsers/view.php:249
+msgid "Token"
+msgstr "Token"
+
+#: templates/Admin/MyUsers/view.php:250
+msgid "Token Secret"
+msgstr "Token kulcs"
+
+#: templates/Admin/MyUsers/view.php:251
+msgid "Token Expires"
+msgstr "Token lejárata"
+
+#: templates/Admin/MyUsers/view.php:253
+msgid "Data"
+msgstr "Adat"
+
+#: templates/Admin/Photos/add.php:13 templates/Admin/Photos/add.php:21
+#: templates/Admin/Photos/edit.php:13 templates/Admin/Photos/edit.php:21
+#: templates/Admin/Photos/view.php:31
+msgid "Photo"
+msgstr "Kép"
+
+#: templates/Admin/Posts/add.php:13 templates/Admin/Posts/add.php:21
+#: templates/Admin/Posts/edit.php:13 templates/Admin/Posts/edit.php:21
+#: templates/Admin/Posts/view.php:31
+msgid "Post"
+msgstr "Cikk"
+
+#: templates/Admin/Posts/add.php:140 templates/Admin/Posts/edit.php:139
+msgid "Content"
+msgstr "Tartalom"
+
+#: templates/Admin/Posts/add.php:149 templates/Admin/Posts/edit.php:147
+#: templates/Admin/Posts/view.php:51
+msgid "More"
+msgstr "Bővebben"
+
+#: templates/Admin/Posts/view.php:80
+msgid "My User"
+msgstr "Felhasználó"
+
+#: templates/Admin/Posts/view.php:93
+msgid "Slug"
+msgstr "Slug"
+
+#: templates/Admin/Posts/view.php:100
+msgid "Show In Main Page"
+msgstr "Főoldalra is"
+
+#: templates/Messages/add.php:1 templates/element/header.php:66
+#: templates/layout/default.php:107
+msgid "Contact"
+msgstr "Kapcsolat"
+
+#: templates/Messages/add.php:23
+msgid "Location"
+msgstr "Hely"
+
+#: templates/Messages/add.php:35
+msgid "Call"
+msgstr "Telefon"
+
+#: templates/Posts/index.php:45 templates/Posts/view.php:44
+msgid "Read More"
+msgstr "Bővebben"
+
+#: templates/element/breadcrumbs.php:18 templates/element/breadcrumbs.php:27
+#: templates/element/header.php:42 templates/layout/default.php:104
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: templates/element/cta.php:11
+msgid "Join our club!"
+msgstr "Csatlakozz a klubunkhoz!"
+
+#: templates/element/header.php:48 templates/layout/default.php:106
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/element/sidebar.php:5
+msgid "Search"
+msgstr "Keresés"
+
+#: templates/element/sidebar.php:28
+msgid "Latest posts"
+msgstr "Utolsó bejegyzés"
+
+#: templates/layout/default.php:105
+msgid "About us"
+msgstr "Rólunk"
+
+#: templates/layout/default.php:114
+msgid "Cookies"
+msgstr "Sütik"
+
+#: templates/layout/default.php:115
+msgid "Terms of service"
+msgstr "Szolgáltatási feltételek"
+
+#: templates/layout/default.php:116
+msgid "Privacy policy"
+msgstr "Adatvédelmi szabályzat"
+
+#: templates/layout/error.php:36
+msgid "Back"
+msgstr "Vissza"
+
+#: templates/plugin/CakeDC/Users/Users/BACKUP/login.php:21
+msgid "Channels"
+msgstr "Csatornák"
+
+#: templates/plugin/CakeDC/Users/Users/change_password.php:21
+msgid "Change Password"
+msgstr "Jelszó módisítása"
+
+#: templates/plugin/CakeDC/Users/Users/index.php:30
+msgid "Index"
+msgstr "Lista"
+
+#: templates/plugin/CakeDC/Users/Users/index.php:32
+msgid "filter"
+msgstr "szűrő"
+
+#: templates/plugin/CakeDC/Users/Users/index.php:79
+msgid "View this user"
+msgstr "Felhasználó megtekintése"
+
+#: templates/plugin/CakeDC/Users/Users/index.php:83
+msgid "Edit this user"
+msgstr "Felhasználó módosítása"
+
+#: templates/plugin/CakeDC/Users/Users/login.php:10
+msgid "Login"
+msgstr "Bejelentkezés"
+
+#: templates/plugin/CakeDC/Users/Users/login.php:16
+#: templates/plugin/CakeDC/Users/Users/login.php:37
+msgid "Sign In"
+msgstr "Bejelentkezés"
+
+#: templates/plugin/CakeDC/Users/Users/login.php:18
+msgid "E-mail cím"
+msgstr "E-mail cím"
+
+#: templates/plugin/CakeDC/Users/Users/login.php:20
+msgid "E-mail"
+msgstr "E-mail"
+
+#: templates/plugin/CakeDC/Users/Users/login.php:20
+#: templates/plugin/CakeDC/Users/Users/login.php:24
+msgid "Input valid email"
+msgstr "Érvényes email címet adjon meg"
+
+#: templates/plugin/CakeDC/Users/Users/login.php:24
+msgid "Input valid password"
+msgstr "Érvényes jelszót adjon meg"
+
+#: templates/plugin/CakeDC/Users/Users/profile.php:54
+msgid "Back to Admin"
+msgstr "Vissza az admin-ba"
+
+#: templates/plugin/CakeDC/Users/Users/register.php:21
+msgid "Sign Up"
+msgstr "Regisztráció"
+
+#: templates/plugin/CakeDC/Users/Users/view.php:61
+msgid "Fullname"
+msgstr "Teljes neve"
+
+#: templates/plugin/CakeDC/Users/Users/view.php:154
+msgid "Back to list"
+msgstr "Vissza a listáhz"
+
+#~ msgid "Wrong address!"
+#~ msgstr "Hibás cím!"
+
+#~ msgid "Selected settlement"
+#~ msgstr "Kiválasztott település"
+
+#~ msgid "You tried to set a non-existent settlement!"
+#~ msgstr "Nem létező településnév!"
+
+#~ msgid "Documents"
+#~ msgstr "Dokumentumok"
+
+#~ msgid "Downloadable Documents"
+#~ msgstr "Letölthető dokumentumok"
+
+#~ msgid "Wrong HASH!"
+#~ msgstr "Hibás HASH!"
+
+#~ msgid "Missing file!"
+#~ msgstr "Hiányzó fájl!"
+
+#~ msgid "Wrong HASH or missing file!"
+#~ msgstr "Hibás HASH vagy hiányzó fájl!"
+
+#~ msgid "Frequently Asked Questions"
+#~ msgstr "Gyakran ismételt Kérdések"
+
+#~ msgid "F.A.Q."
+#~ msgstr "GY.I.K."
+
+#~ msgid "Missing language!"
+#~ msgstr "Hiányzó nyelv!"
+
+#~ msgid "Maintenances"
+#~ msgstr "Karbantartások"
+
+#~ msgid "Missing post!"
+#~ msgstr "Hiányzó bejegyzés!"
+
+#~ msgid "Maintenance"
+#~ msgstr "Karbantartás"
+
+#~ msgid "Wrong address"
+#~ msgstr "Hibás cím"
+
+#~ msgid "Wrong parameters"
+#~ msgstr "Hibás paraméter"
+
+#~ msgid "Please enter the subject of the message!"
+#~ msgstr "Kérem írja be az üzenet tárgyát!"
+
+#~ msgid "Security code is required!"
+#~ msgstr "Biztonsági kódot meg kell adni!"
+
+#~ msgid ""
+#~ "Thank you! We have received your message. Our colleagues will contact you "
+#~ "soon at one of the contact details provided."
+#~ msgstr ""
+#~ "Köszönöm! Megkaptuk üzenetét. Kollégáink hamarosan felveszik Önnel a "
+#~ "kapcsolatot a megadott elérhetőségek egyikén."
+
+#~ msgid ""
+#~ "We could not send your message! Please review the information you "
+#~ "provided and correct any errors."
+#~ msgstr ""
+#~ "Nem tudtuk elküldeni az üzenetét! Kérjük, tekintse át a megadott "
+#~ "információkat, és javítsa ki az esetleges hibákat."
+
+#~ msgid "Write a message to us"
+#~ msgstr "Írja meg üzenetés"
+
+#~ msgid "Hash error!"
+#~ msgstr "HASH hiba!"
+
+#~ msgid "Service package inquiry"
+#~ msgstr "Szolgáltatáscsomag lekérdezés"
+
+#~ msgid "Interest"
+#~ msgstr "Érdekel"
+
+#~ msgid ""
+#~ "Congratulations! You have successfully registered for the PDF invoice!"
+#~ msgstr "Gratulálunk! Sikeresen regisztrált a PDF számlára!"
+
+#~ msgid "The pdfinvoice could not be saved. Please, try again."
+#~ msgstr ""
+#~ "PDF számlára való regisztrációját nem tudtuk menteni. Kérem nézze át az "
+#~ "adatokat és javítsa a hibásan megadottakat."
+
+#~ msgid "Register for a PDF account"
+#~ msgstr "Regisztráció PDF számlára"
+
+#~ msgid "You clicked on the wrong link!"
+#~ msgstr "Hibás, vagy nem létező linkre kattintott!"
+
+#~ msgid "Wrong link!"
+#~ msgstr "Hibás link!"
+
+#~ msgid "You have already activated your registration for a PDF account."
+#~ msgstr "Már aktiválta a PDF-fiók regisztrációját."
+
+#~ msgid ""
+#~ "Congratulations! You have successfully activated your PDF account "
+#~ "registration. Please check your SPAM folder in your email system by the "
+#~ "10th of each month in the future to prevent our emails from landing there."
+#~ msgstr ""
+#~ "Gratulálok! Sikeresen aktiválta PDF-fiókjának regisztrációját. Kérjük, a "
+#~ "jövőben minden hónap 10. napjáig ellenőrizze levelezőrendszerének SPAM "
+#~ "mappáját, nehogy e-mailjeink oda kerüljenek."
+
+#~ msgid ""
+#~ "You clicked on the wrong link! It is possible that you have already "
+#~ "activated your registration for a PDF account."
+#~ msgstr ""
+#~ "Rossz linkre kattintottál! Lehetséges, hogy már aktiválta a "
+#~ "regisztrációját a PDF számlához."
+
+#~ msgid "all"
+#~ msgstr "osszes"
+
+#~ msgid "home"
+#~ msgstr "kezdolap"
+
+#~ msgid "actions"
+#~ msgstr "akciok"
+
+#~ msgid "Planned power outages at EON."
+#~ msgstr "Tervezett áramszünetek az EON-nál."
+
+#~ msgid "Planned power outage at EON."
+#~ msgstr "Tervezett áramszünet az EON-nál."
+
+#~ msgid "Individual package building"
+#~ msgstr "Csomagvarázsló"
+
+#~ msgid "catv"
+#~ msgstr "ktv"
+
+#~ msgid "Our cable TV services"
+#~ msgstr "Kábeltévé csomagjaink"
+
+#~ msgid "internet"
+#~ msgstr "internet"
+
+#~ msgid "Our Internet services"
+#~ msgstr "Internet csomagjaink"
+
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "phone"
+#~ msgstr "telefon"
+
+#~ msgid "Our telephone services"
+#~ msgstr "Telefonszolgáltatásaink"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#, fuzzy
+#~| msgid "Empty content! Please check back later!"
+#~ msgid "Maintenance! Please check back later!"
+#~ msgstr "Üres tartalom! Kérem nézzen vissza később!"
+
+#~ msgid "Please check your payment ID!"
+#~ msgstr "Kérem ellenőrizze a befizetőazonosítóját"
+
+#~ msgid "Wrong number in Payer ID!"
+#~ msgstr "Hibás számot adott meg a befizető-azonosítójánál!"
+
+#~ msgid "You entered at least one digit incorrectly!"
+#~ msgstr "Legalább egy számjegyet hibásan adott meg!"
+
+#~ msgid "Incorrect payment ID!"
+#~ msgstr "Hibás befizetőazonosító"
+
+#~ msgid "Incorrect E-mail!"
+#~ msgstr "Hibás E-mail!"
+
+#~ msgid "Incorrect security code!"
+#~ msgstr "Hibás biztonsági kódot adott meg!"
+
+#, fuzzy
+#~| msgid "Empty content! Please check back later!"
+#~ msgid "Server error! Please check back later! Errorcode: "
+#~ msgstr "Üres tartalom! Kérem nézzen vissza később!"
+
+#~ msgid "This bill has already been paid!"
+#~ msgstr "Ezt a számlát már befizették!"
+
+#~ msgid "Pay your bill with Simplay"
+#~ msgstr "Számla kiegyenlítése SimplePay-jel"
+
+#~ msgid "Paying an invoice"
+#~ msgstr "Számla kiegyenlítése"
+
+#, fuzzy
+#~| msgid "This bill has already been paid!"
+#~ msgid "Your payment has already been processed!"
+#~ msgstr "Ezt a számlát már befizették!"
+
+#~ msgid "Current"
+#~ msgstr "Aktuiális"
+
+#~ msgid "Archive"
+#~ msgstr "Arhív"
+
+#~ msgid "Empty content! Please check back later!"
+#~ msgstr "Üres tartalom! Kérem nézzen vissza később!"
+
+#~ msgid "Cities"
+#~ msgstr "Települések"
+
+#~ msgid "Go back"
+#~ msgstr "Vissza"
+
+#~ msgid "Please select whether<br>you are an existing customer or visitor."
+#~ msgstr "Kérjük, válassza ki, hogy Ön<br>már ügyfelünk vagy látogató."
+
+#~ msgid "Our client"
+#~ msgstr "Meglévő ügyfelünk"
+
+#~ msgid "Visitor"
+#~ msgstr "Látogató"
+
+#~ msgid "Send a message to Sághy-Sat Kft."
+#~ msgstr "Üzenet küldése a Sághy-Sat Kft. részére."
+
+#~ msgid ""
+#~ "Please enter your details and write us a message. After sending a "
+#~ "message, our staff will contact you shortly using one of the contact "
+#~ "details provided."
+#~ msgstr ""
+#~ "Kérjük, adja meg adatait, és írjon nekünk üzenetet. Üzenet elküldését "
+#~ "követően munkatársaink rövidesen felveszik Önnel a kapcsolatot a megadott "
+#~ "elérhetőségek valamelyikén."
+
+#~ msgid ""
+#~ "You can find your customer number in the upper left corner of your "
+#~ "invoice."
+#~ msgstr "Ügyfélszámát a számla bal felső sarkában találja."
+
+#~ msgid "Service location data"
+#~ msgstr "A szolgáltatás helyének adatai"
+
+#~ msgid "ID000000"
+#~ msgstr "ID000000"
+
+#~ msgid "Customer ID"
+#~ msgstr "Ügyfélszám"
+
+#~ msgid "Please Select"
+#~ msgstr "Kérem válasszon"
+
+#~ msgid "City"
+#~ msgstr "Település"
+
+#~ msgid "Street"
+#~ msgstr "Cím"
+
+#~ msgid "House"
+#~ msgstr "H.sz."
+
+#~ msgid "Door"
+#~ msgstr "Ajtó"
+
+#~ msgid "Geo.Num."
+#~ msgstr "HRSZ."
+
+#~ msgid "+36 12/345-67-89"
+#~ msgstr "+36 12/345-67-89"
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefonszám"
+
+#~ msgid "Message theme"
+#~ msgstr "Üzenet témája"
+
+#~ msgid "Please select"
+#~ msgstr "Kérem válasszon"
+
+#~ msgid "Your message"
+#~ msgstr "Üzenete"
+
+#~ msgid "Submit"
+#~ msgstr "Küldés"
+
+#~ msgid "Visitor message to Sághy-Sat Kft."
+#~ msgstr "Látogatói üzenet a Sághy-Sat Kft. részére."
+
+#~ msgid ""
+#~ "You have not filled out the form correctly. Please correct the marked "
+#~ "fields."
+#~ msgstr ""
+#~ "Nem megfelelően töltötte ki az űrlapot. Kérjük, javítsa a megjelölt mezők "
+#~ "tartalmát."
+
+#~ msgid "Must be entered."
+#~ msgstr "Be kell írni."
+
+#~ msgid "Must be at least 8 characters!"
+#~ msgstr "Legalább 8 karakternek kell lennie!"
+
+#~ msgid "Wrong e-mail address!"
+#~ msgstr "Hibás e-mail cím!"
+
+#~ msgid "Invalid URL!"
+#~ msgstr "Hibás URL!"
+
+#~ msgid "Only letters and numbers!"
+#~ msgstr "Csak számok és betűk lehetnek!"
+
+#~ msgid "Just write letters!"
+#~ msgstr "Csak betűk lehetnek!"
+
+#~ msgid ""
+#~ "Only letters and numbers and - or ' are allowed! Please enter your full "
+#~ "name (with a space)!"
+#~ msgstr ""
+#~ "Csak betűk és számok, valamint - vagy ' megengedettek! Kérjük, adja meg "
+#~ "teljes nevét (szóközzel)!"
+
+#~ msgid "You can only write numbers, unaccented capital letters, and spaces!"
+#~ msgstr "Csak számokat, ékezet nélküli nagybetűket és szóközöket írhat!"
+
+#~ msgid "It can only contain [+, /, -] signs and numbers!"
+#~ msgstr "Csak [+, /, -] jeleket és számokat tartalmazhat!"
+
+#~ msgid "Customer data"
+#~ msgstr "Ügyféladatok"
+
+#~ msgid ""
+#~ "With the provided data, we prepare the customer's data sheet and "
+#~ "contract. Please make sure to enter the data accurately!"
+#~ msgstr ""
+#~ "A megadott adatokkal elkészítjük a megrendelő adatlapját és szerződését. "
+#~ "Kérjük, ügyeljen az adatok pontos megadására!"
+
+#~ msgid "Billing data is the same as the data of the service location."
+#~ msgstr "A számlázási adatok megegyeznek a szolgáltatási hely adataival."
+
+#~ msgid "Billing address"
+#~ msgstr "Számlázási cím"
+
+#~ msgid "Birthplace"
+#~ msgstr "Szül. hely"
+
+#~ msgid "Birthday"
+#~ msgstr "Szül. nap"
+
+#~ msgid "Mother's name"
+#~ msgstr "Anyja neve"
+
+#~ msgid "ID Number"
+#~ msgstr "Szem. ig. száma"
+
+#~ msgid "ID or Passport Number"
+#~ msgstr "Szem. ig. vagy útlevél száma"
+
+#~ msgid "Address Card Number"
+#~ msgstr "Lakcímkártya száma"
+
+#~ msgid "Company"
+#~ msgstr "Cég"
+
+#~ msgid "Institution"
+#~ msgstr "Intézmény"
+
+#~ msgid "Company or institution data"
+#~ msgstr "Cég vagy intézmény adatai"
+
+#~ msgid "Company or institution?"
+#~ msgstr "Cég vagy intézmény?"
+
+#~ msgid "Company or institution name"
+#~ msgstr "Cég vagy intézmény neve"
+
+#~ msgid "Name continuation"
+#~ msgstr "Név folytatása"
+
+#~ msgid "Tax number"
+#~ msgstr "Adószám"
+
+#~ msgid "Group member's tax number"
+#~ msgstr "Csoporttag adószáma"
+
+#~ msgid "Company reg. num."
+#~ msgstr "Cégbírósági bejegyzés száma"
+
+#~ msgid "Comment"
+#~ msgstr "Megjegyzés, üzenet"
+
+#~ msgid "Comments. Please write your other messages here."
+#~ msgstr "Megjegyzések. Kérjük, írja ide a többi üzenetét."
+
+#~ msgid "Security code (CAPTCHA)"
+#~ msgstr "Biztonsági kód (CAPTCHA)"
+
+#~ msgid "Please write here the security code from above"
+#~ msgstr "Kérem írja ide a fenti biztonsági kódot"
+
+#~ msgid "Read T.O.C."
+#~ msgstr "Á.SZ.F. megtekintése"
+
+#~ msgid "I have read and accept the terms and conditions"
+#~ msgstr "Elfogadom az  Általános Szerződési Feltételekben foglaltakat"
+
+#~ msgid "Success"
+#~ msgstr "Siker"
+
+#~ msgid "Success ok"
+#~ msgstr "Siker: OK"
+
+#~ msgid "Registration to PDF invoice."
+#~ msgstr "Regisztráció PDF számlára."
+
+#~ msgid ""
+#~ "The customer number is located in the upper left corner of the invoice."
+#~ msgstr "Az ügyfélszám a számla bal felső sarkában található."
+
+#~ msgid "Help"
+#~ msgstr "Segítség"
+
+#~ msgid "Individual"
+#~ msgstr "Magánszemély"
+
+#~ msgid "Type"
+#~ msgstr "Típus"
+
+#~ msgid "Settlement"
+#~ msgstr "Település"
+
+#~ msgid ""
+#~ "I agree that Sághy-Sat Kft. may contact me with information related to "
+#~ "the service."
+#~ msgstr ""
+#~ "Egyetértek azzal, hogy a Sághy-Sat Kft. kapcsolatba léphet velem a "
+#~ "szolgáltatással kapcsolatos információkkal."
+
+#~ msgid ""
+#~ "I agree that Sághy-Sat Kft. may contact me by email with marketing offers."
+#~ msgstr ""
+#~ "Egyetértek azzal, hogy a Sághy-Sat Kft. kapcsolatba léphet velem e-"
+#~ "mailben marketing ajánlatokkal."
+
+#~ msgid ""
+#~ "I agree that the data provided may be transferred to a 3rd party for "
+#~ "marketing purposes."
+#~ msgstr ""
+#~ "Hozzájárulok ahhoz, hogy a megadott adatokat marketing célból harmadik "
+#~ "félnek továbbítsák."
+
+#~ msgid ""
+#~ "I agree that I may be contacted verbally or by SMS at the provided "
+#~ "telephone number regarding the service."
+#~ msgstr ""
+#~ "Hozzájárulok, hogy a szolgáltatással kapcsolatban szóban vagy SMS-ben "
+#~ "felvegyenek velem a kapcsolatot a megadott telefonszámon."
+
+#~ msgid "I have read and acknowledged the data processing policy."
+#~ msgstr "Az adatkezelési szabályzatot elolvastam és tudomásul vettem."
+
+#~ msgid "Sorry!"
+#~ msgstr "Sajnálom!"
+
+#~ msgid "No content found in this section."
+#~ msgstr "Ebben a szakaszban nem található tartalom."
+
+#~ msgid "Planned power outages at"
+#~ msgstr "Tervezett áramszünetek az"
+
+#~ msgid "-nál!"
+#~ msgstr "-nál!"
+
+#~ msgid "Planned maintenance announced by E-ON in the following settlements."
+#~ msgstr ""
+#~ "Az E-ON által meghirdetett tervezett karbantartás az alábbi településeken."
+
+#~ msgid ""
+#~ "If there is a power outage at EON in your town, it may affect our service "
+#~ "at your address.<br>Please only report an error if you do not find a "
+#~ "power outage registered for your town here."
+#~ msgstr ""
+#~ "Ha az Ön településén áramszünet van az EON-nál, az hatással lehet az Ön "
+#~ "címén nyújtott szolgáltatásunkra.<br>Kérjük, csak akkor jelezzen hibát, "
+#~ "ha itt nem talál a településére előjelzett áramszünetet."
+
+#~ msgid ""
+#~ "There is currently no data in our system about a power outage planned by "
+#~ "EON."
+#~ msgstr ""
+#~ "Jelenleg nincs adat a rendszerünkben az EON-nál tervezett áramszünetről."
+
+#~ msgid "Advanced"
+#~ msgstr "Bővített"
+
+#~ msgid "I want this"
+#~ msgstr "Ezt szeretném"
+
+#~ msgid "Special offer"
+#~ msgstr "Kiemelt ajánlat"
+
+#~ msgid "Our package offers based on the selected services"
+#~ msgstr "Csomag ajánlataink a kiválasztott szolgáltatás(ok) alapján"
+
+#~ msgid "Selected products"
+#~ msgstr "Kiválasztott szolgáltatások"
+
+#~ msgid "Package price"
+#~ msgstr "Csomag ár"
+
+#~ msgid "Products total"
+#~ msgstr "Szolgáltatások összesen"
+
+#~ msgid "Digitals total"
+#~ msgstr "Digitális csomagok összesen"
+
+#~ msgid "Total"
+#~ msgstr "Mindösszesen"
+
+#~ msgid "More offers"
+#~ msgstr "További ajánlataink"
+
+#~ msgid "You might also be interested in this compilation"
+#~ msgstr "További ajánlataink"
+
+#~ msgid ""
+#~ "Please answer whether you wish to be<br>an individual or corporate (or "
+#~ "institutional) subscriber."
+#~ msgstr ""
+#~ "Kérjük, válaszoljon, hogy<br>magánszemély vagy céges/intézményes "
+#~ "előfizető szeretne lenni."
+
+#~ msgid "Current city is"
+#~ msgstr "Aktuális település"
+
+#~ msgid "Individual subscriber"
+#~ msgstr "Magánszemély"
+
+#~ msgid "Company or institution"
+#~ msgstr "Cég vagy intézmény"
+
+#~ msgid "Choose from services"
+#~ msgstr "Válasszon a szolgáltatások közül"
+
+#~ msgid "Click on the desired services"
+#~ msgstr "Kattintson a kívánt szolgáltatásokra"
+
+#~ msgid "Telephone"
+#~ msgstr "Telefon"
+
+#~ msgid ""
+#~ "Telephone service can only be used in conjunction with cable TV and/or "
+#~ "Internet service."
+#~ msgstr ""
+#~ "A telefonszolgáltatás csak kábeltévével és/vagy internetszolgáltatással "
+#~ "együtt vehető igénybe."
+
+#~ msgid "Please select cable TV and/or Internet service first!"
+#~ msgstr ""
+#~ "Kérjük, először válassza ki a kábel TV és/vagy internet szolgáltatást!"
+
+#~ msgid "Our cable TV packages"
+#~ msgstr "Kábeltévé csomagjaink"
+
+#~ msgid "Our packages can be viewed for a monthly fee"
+#~ msgstr "+Havidíj ellenében nézhető csomagjaink"
+
+#~ msgid "Can be requested with Cable TV Extended Package"
+#~ msgstr "Bővített KTV csomag mellé kérhető"
+
+#~ msgid "Our Internet packages"
+#~ msgstr "Internet csomagjaink"
+
+#~ msgid "Our phone packages"
+#~ msgstr "Telefon csomagjaink"
+
+#~ msgid "Summary"
+#~ msgstr "Összegzés"
+
+#~ msgid "I would like the price offers"
+#~ msgstr "Kérem az árajánlatokat"
+
+#, fuzzy
+#~| msgid "Date"
+#~ msgid "Date time"
+#~ msgstr "Dátum"
+
+#~ msgid "Invoice number"
+#~ msgstr "Számlaszám"
+
+#~ msgid "Error"
+#~ msgstr "Hiba"
+
+#, fuzzy
+#~| msgid "Error"
+#~ msgid "Error code"
+#~ msgstr "Hiba"
+
+#, fuzzy
+#~| msgid "Empty content! Please check back later!"
+#~ msgid "Maintenance!<br>Please check back<br>later!"
+#~ msgstr "Üres tartalom! Kérem nézzen vissza később!"
+
+#~ msgid "Pay your bill with Simplepay"
+#~ msgstr "Számla kiegyenlítése SimplePay-jel"
+
+#~ msgid ""
+#~ "On the Sághy-Sat Kft. website, only the payment is prepared by entering "
+#~ "the basic data, and then the payment is made on the OTP SimplePay website."
+#~ msgstr ""
+#~ "A Sághy-Sat Kft.-n weboldalán csak a fizetés előkészítése történik meg az "
+#~ "alapadatok megadásával. A fizetés az OTP SimplePay honlapján történik."
+
+#~ msgid ""
+#~ "You can find the \"Payer ID\" at the top left of the invoice, to the left "
+#~ "of the QR code."
+#~ msgstr ""
+#~ "A „Befizető azonosítója” a számla bal felső sarkában, a QR-kódtól balra "
+#~ "található."
+
+#~ msgid ""
+#~ "If you cannot find it, please click the \"Where can I find the Payer ID?"
+#~ "\" button."
+#~ msgstr ""
+#~ "Ha nem találja, kattintson a \"Hol találom a befizető-azonosítómat?\" "
+#~ "gombra."
+
+#~ msgid "Payer ID"
+#~ msgstr "Befizetőazonosító"
+
+#~ msgid "Where can I find the \"Payer ID\"?"
+#~ msgstr "Hol találom a befizető-azonosítómat?"
+
+#~ msgid "Start payment"
+#~ msgstr "Befizetés indítása"
+
+#~ msgid "Error reporting!"
+#~ msgstr "Hiba bejelentése!"
+
+#~ msgid ""
+#~ "If you experience an error or anomaly, please click on the error report "
+#~ "button to report it!"
+#~ msgstr ""
+#~ "Ha hibát vagy rendellenességet tapasztal, kérjük, kattintson a "
+#~ "hibabejelentés gombra a bejelentéshez!"
+
+#~ msgid "Report an error"
+#~ msgstr "Hiba bejelentése"
+
+#~ msgid "Set up your <span>own package</span> here!"
+#~ msgstr "Állítsa össze <span>egyéni csomagját</span> itt!"
+
+#~ msgid "Click on the \"Package Wizard\" button and follow the instructions!"
+#~ msgstr "Kattintson a \"Csomagvarázsló\" gombra, és kövesse az utasításokat!"
+
+#~ msgid "Package Wizard"
+#~ msgstr "Csomagvarázsló"
+
+#~ msgid "Info"
+#~ msgstr "Információ"
+
+#~ msgid "Warning"
+#~ msgstr "Figyelem"
+
+#~ msgid "9 Ady Endre Street,<br>7754 Bóly,<br>Hungary"
+#~ msgstr "7754 Bóly,<br>Ady Endre utca 9.<br>Hungary"
+
+#~ msgid "+36 69/696-696"
+#~ msgstr "+36 69/696-696"
+
+#~ msgid "info@saghysat.hu"
+#~ msgstr "info@saghysat.hu"
+
+#~ msgid "Informations"
+#~ msgstr "Információ"
+
+#~ msgid "Company details"
+#~ msgstr "Cégadatok"
+
+#~ msgid "impressum"
+#~ msgstr "ceginformaciok"
+
+#~ msgid "T.O.C."
+#~ msgstr "Á.SZ.F."
+
+#~ msgid "terms-and-conditions"
+#~ msgstr "altalanos-szolgaltatasi-feltetelek"
+
+#~ msgid "privacy-policy"
+#~ msgstr "adatvedelmi-szabalyzat"
+
+#~ msgid "Our Services"
+#~ msgstr "Szolgáltatásaink"
+
+#~ msgid "Promotions"
+#~ msgstr "Akciók"
+
+#~ msgid "promotions"
+#~ msgstr "akciók"
+
+#~ msgid "Copyright by"
+#~ msgstr "Copyright by"
+
+#~ msgid "Sághy-Sat Kft."
+#~ msgstr "Sághy-Sat Kft."
+
+#~ msgid "Security code"
+#~ msgstr "Biztonsági kód"
+
+#~ msgid "Browse our current promotions"
+#~ msgstr "Tallózzon az aktuális AKCIÓS ajánlataink között"
+
+#~ msgid "Browse our Cable TV services"
+#~ msgstr "Tallózzon a kábeltévé csomagjaink között"
+
+#~ msgid "Browse our Internet services"
+#~ msgstr "Tallózzon az Internet csomagjaink között"
+
+#~ msgid "Browse our Telephone services"
+#~ msgstr "Tallózzon a telefonszolgáltatásaink között"
+
+#~ msgid "Children on the Internet"
+#~ msgstr "Gyerekek a neten"
+
+#~ msgid "You have the tools!"
+#~ msgstr "Van eszköz a kezedben!"
+
+#~ msgid "Take action for your child's digital safety!"
+#~ msgstr "Tegyél lépéseket gyermeked digitális biztonságáért!"
+
+#~ msgid "Cyberbullying - Hurting others is not cool!"
+#~ msgstr "Internetes zaklatás – Másokat bántani nem jó!"
+
+#~ msgid "Children on the Internet!"
+#~ msgstr "Gyerekek az Interneten!"
+
+#~ msgid "children-on-the-internet"
+#~ msgstr "gyerekek-a-neten"
+
+#~ msgid "Pay your bill"
+#~ msgstr "Számla fizetése"
+
+#~ msgid ""
+#~ "You can also pay your bill online. Click the Pay Bill button below. After "
+#~ "filling out the form, you can pay your bill immediately."
+#~ msgstr ""
+#~ "A számlát online is fizetheti. Kattintson a lenti Számla befizetése "
+#~ "gombra. Az űrlap kitöltése után azonnal fizetheti számláját."
+
+#~ msgid "Pay bill!"
+#~ msgstr "Számla befizetése!"
+
+#~ msgid "Register to PDF bill"
+#~ msgstr "Regisztráció PDF számlára"
+
+#~ msgid ""
+#~ "Register for a PDF account and we will send you your invoice by email!"
+#~ msgstr "Regisztráljon PDF számlára és mi e-mailben küldjük Önnek a számlát!"
+
+#~ msgid "maintenances"
+#~ msgstr "karbantartasok"
+
+#~ msgid "Settlement maintenance!"
+#~ msgstr "Település karbantartás!"
+
+#~ msgid ""
+#~ "All previous maintenance can be viewed by clicking on the "
+#~ "\"Maintenances\" button."
+#~ msgstr ""
+#~ "Minden korábbi karbantartás megtekinthető a \"Karbantartások\" gombra "
+#~ "kattintva."
+
+#~ msgid "Planned and extraordinary maintenance of Sághy-Sat Kft."
+#~ msgstr "A Sághy-Sat Kft. tervezett és rendkívüli karbantartása."
+
+#~ msgid "Where is your customer number?"
+#~ msgstr "Hol találja az ügyfélszámot?"
+
+#~ msgid "Close"
+#~ msgstr "Bezár"
+
+#~ msgid "Where is your Payer ID?"
+#~ msgstr "Hol találja az befizetőazonosítóját?"
+
+#~ msgid "Request a PDF invoice"
+#~ msgstr "PDF számla igénylése"
+
+#~ msgid "Understood"
+#~ msgstr "Elolvastam és megértettem"
+
+#~ msgid "pdf-invoice-request"
+#~ msgstr "pdf-szamla-igenylese"
+
+#~ msgid "Privacy and data management policy"
+#~ msgstr "Adatvédelmi és adatkezelési szabályzat"
+
+#~ msgid "simplepay-data-transfer-statement"
+#~ msgstr "simplepay-adattovabbitasi-nyilatkozat"
+
+#~ msgid "data-protection-and-data-processing-policy"
+#~ msgstr "adatvedelmi-es-adatkezelesi-szabalyzat"
+
+#~ msgid "Select City"
+#~ msgstr "Település választás"
+
+#~ msgid "Please select your city"
+#~ msgstr "Kérem válassza ki a települését"
+
+#~ msgid "cities"
+#~ msgstr "települések"
+
+#~ msgid "Current city"
+#~ msgstr "Aktuális település"
+
+#~ msgid "Post categories"
+#~ msgstr "Bejegyzés kategóriák"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Legújabb bejegyzések"
+
+#~ msgid "Planned maintenances"
+#~ msgstr "Tervezett karbantartasok"
+
+#~ msgid "Planned power outages at <span class=\"text-danger\">EON</span>"
+#~ msgstr ""
+#~ "Tervezett áramszünetek az <span class=\"text-danger\">EON</span>-nál"
+
+#~ msgid "Sághy-Sat Kft a térség Kábeltévé, Internet és telefon szolgáltatója."
+#~ msgstr ""
+#~ "Sághy-Sat Kft a térség Kábeltévé, Internet és telefon szolgáltatója."
+
+#~ msgid "change-language"
+#~ msgstr "nyelv-valtas"
+
+#~ msgid "posts"
+#~ msgstr "cikkek"
+
+#~ msgid "pages"
+#~ msgstr "oldalak"
+
+#~ msgid "page"
+#~ msgstr "oldal"
+
+#~ msgid "maintenance"
+#~ msgstr "karbantartas"
+
+#~ msgid "powercuts"
+#~ msgstr "aramszunetek"
+
+#~ msgid "powercut"
+#~ msgstr "aramszunet"
+
+#~ msgid "catvs"
+#~ msgstr "ktvcsomagok"
+
+#~ msgid "internets"
+#~ msgstr "internetcsomagok"
+
+#~ msgid "phones"
+#~ msgstr "telefoncsomagok"
+
+#~ msgid "package-wizzard"
+#~ msgstr "csomagvarazslo"
+
+#~ msgid "news"
+#~ msgstr "ujdonsagok"
+
+#~ msgid "post-view"
+#~ msgstr "cikk"
+
+#~ msgid "contact"
+#~ msgstr "kapcsolat"
+
+#~ msgid "order"
+#~ msgstr "megrendeles"
+
+#~ msgid "pdf-registration"
+#~ msgstr "pdf-regisztracio"
+
+#~ msgid "frequently asked questions"
+#~ msgstr "gyakran-ismetelet-kerdesek"
+
+#~ msgid "dokuments"
+#~ msgstr "dokumentumok"
+
+#~ msgid "simplepay"
+#~ msgstr "simplepay"
+
+#~ msgid "download"
+#~ msgstr "letoltes"
+
+#~ msgid "pdf-bill"
+#~ msgstr "pdf-szamla"
+
+#~ msgid "Amount"
+#~ msgstr "Összeg"
+
+#~ msgid "Wrong address! #1"
+#~ msgstr "Hibás cím! #1"
+
+#~ msgid "News"
+#~ msgstr "Újdonságok"
+
+#~ msgid "Categories"
+#~ msgstr "Kategóriák"
+
+#~ msgid "CATV"
+#~ msgstr "KTV"
+
+#~ msgid "Pricing"
+#~ msgstr "Árak"
+
+#~ msgid "Subscribe to PDF bill"
+#~ msgstr "Regisztráció PDF számlára"
+
+#~ msgid ""
+#~ "Please provide me with your email address if you would like to receive "
+#~ "your invoice in a PDF file."
+#~ msgstr ""
+#~ "Kérjük, adja meg e-mail címét, ha számláját PDF formátumban szeretné "
+#~ "megkapni."
+
+#~ msgid "Current Settlement is"
+#~ msgstr "Település"
+
+#~ msgid "custom-package-creation"
+#~ msgstr "egyeni-csomag-osszeallitas"
+
+#~ msgid "custom"
+#~ msgstr "egyeni"
+
+#~ msgid "Pricings"
+#~ msgstr "Áraink"
+
+#~ msgid "Settlement "
+#~ msgstr "Település"
+
+#, fuzzy
+#~| msgid "Address Card Number"
+#~ msgid "Address Number"
+#~ msgstr "Lakcímkártya száma"

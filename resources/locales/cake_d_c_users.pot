@@ -1,0 +1,450 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2025-03-03 12:06+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:13
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:17
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:13
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:26
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:15
+#: ./templates/plugin/CakeDC/Users/Users/index.php:55
+msgid "Actions"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:15
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:28
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:23
+msgid "List Users"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:21
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:18
+msgid "Add User"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:23
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:36
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:22
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:30
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:30
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:20
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:33
+#: ./templates/plugin/CakeDC/Users/Users/add.php:55
+#: ./templates/plugin/CakeDC/Users/Users/edit.php:55
+msgid "Username"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:24
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:37
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:23
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:32
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:21
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:35
+#: ./templates/plugin/CakeDC/Users/Users/add.php:82
+#: ./templates/plugin/CakeDC/Users/Users/edit.php:82
+#: ./templates/plugin/CakeDC/Users/Users/index.php:49
+#: ./templates/plugin/CakeDC/Users/Users/profile.php:35
+#: ./templates/plugin/CakeDC/Users/Users/register.php:62
+#: ./templates/plugin/CakeDC/Users/Users/view.php:76
+msgid "Email"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:25
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:38
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:22
+#: ./templates/plugin/CakeDC/Users/Users/add.php:91
+#: ./templates/plugin/CakeDC/Users/Users/register.php:71
+msgid "Password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:26
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:38
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:24
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:28
+#: ./templates/plugin/CakeDC/Users/Users/add.php:73
+#: ./templates/plugin/CakeDC/Users/Users/edit.php:73
+#: ./templates/plugin/CakeDC/Users/Users/register.php:53
+msgid "First name"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:27
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:39
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:25
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:29
+#: ./templates/plugin/CakeDC/Users/Users/add.php:64
+#: ./templates/plugin/CakeDC/Users/Users/edit.php:64
+#: ./templates/plugin/CakeDC/Users/Users/register.php:44
+msgid "Last name"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:30
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:54
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:49
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:74
+#: ./templates/plugin/CakeDC/Users/Users/add.php:115
+#: ./templates/plugin/CakeDC/Users/Users/edit.php:110
+#: ./templates/plugin/CakeDC/Users/Users/index.php:50
+#: ./templates/plugin/CakeDC/Users/Users/view.php:37
+msgid "Active"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/add.php:34
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/change_password.php:25
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:58
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:38
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/request_reset_password.php:23
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/resend_token_validation.php:20
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/social_email.php:19
+#: ./templates/plugin/CakeDC/Users/Users/add.php:123
+#: ./templates/plugin/CakeDC/Users/Users/change_password.php:64
+#: ./templates/plugin/CakeDC/Users/Users/edit.php:118
+#: ./templates/plugin/CakeDC/Users/Users/register.php:106
+#: ./templates/plugin/CakeDC/Users/Users/request_reset_password.php:46
+#: ./templates/plugin/CakeDC/Users/Users/resend_token_validation.php:20
+#: ./templates/plugin/CakeDC/Users/Users/social_email.php:19
+msgid "Submit"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/change_password.php:5
+msgid "Please enter the new password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/change_password.php:10
+#: ./templates/plugin/CakeDC/Users/Users/change_password.php:33
+msgid "Current password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/change_password.php:16
+#: ./templates/plugin/CakeDC/Users/Users/change_password.php:43
+msgid "New password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/change_password.php:21
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:26
+#: ./templates/plugin/CakeDC/Users/Users/add.php:100
+#: ./templates/plugin/CakeDC/Users/Users/change_password.php:52
+#: ./templates/plugin/CakeDC/Users/Users/register.php:80
+msgid "Confirm password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:22
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:40
+msgid "Delete"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:24
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:40
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:21
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:34
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:17
+msgid "Edit User"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:40
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:43
+msgid "Token"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:42
+msgid "Token expires"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:45
+msgid "API token"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:48
+msgid "Activation date"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:51
+msgid "TOS date"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:64
+msgid "Reset Google Authenticator Token"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/edit.php:70
+msgid "Are you sure you want to reset token for user \"{0}\"?"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:15
+msgid "New {0}"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:37
+msgid "View"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:38
+msgid "Change password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:39
+#: ./templates/plugin/CakeDC/Users/Users/edit.php:27
+msgid "Edit"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:49
+msgid "previous"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/index.php:51
+msgid "next"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:25
+msgid "Please enter your username and password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:56
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:63
+msgid "Remember me"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:67
+msgid "Login"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:93
+#: ./templates/plugin/CakeDC/Users/Users/request_reset_password.php:27
+msgid "Reset Password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/login.php:100
+#: ./templates/plugin/CakeDC/Users/Users/register.php:27
+msgid "Register"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:21
+#: ./templates/plugin/CakeDC/Users/Users/profile.php:28
+msgid "{0} {1}"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:27
+#: ./templates/plugin/CakeDC/Users/Users/change_password.php:26
+#: ./templates/plugin/CakeDC/Users/Users/profile.php:52
+msgid "Change Password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:39
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:68
+msgid "Social Accounts"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:43
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:73
+msgid "Avatar"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:44
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:72
+msgid "Provider"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:45
+msgid "Link"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/profile.php:52
+msgid "Link to {0}"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/register.php:31
+#: ./templates/plugin/CakeDC/Users/Users/register.php:95
+msgid "Accept TOS conditions?"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/request_reset_password.php:20
+msgid "Please enter your email or username to reset your password"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/resend_token_validation.php:15
+#: ./templates/plugin/CakeDC/Users/Users/resend_token_validation.php:15
+msgid "Resend Validation email"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/resend_token_validation.php:17
+#: ./templates/plugin/CakeDC/Users/Users/resend_token_validation.php:17
+msgid "Email or username"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/social_email.php:16
+#: ./templates/plugin/CakeDC/Users/Users/social_email.php:16
+msgid "Please enter your email"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_authenticate.php:22
+#: ./templates/plugin/CakeDC/Users/Users/u2f_authenticate.php:22
+msgid "Verify your registered yubico key"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_authenticate.php:23
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_register.php:23
+#: ./templates/plugin/CakeDC/Users/Users/u2f_authenticate.php:23
+#: ./templates/plugin/CakeDC/Users/Users/u2f_register.php:23
+msgid "Please insert and tap your yubico key"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_authenticate.php:25
+#: ./templates/plugin/CakeDC/Users/Users/u2f_authenticate.php:25
+msgid "When the YubiKey starts blinking, press the golden disc to activate it. Depending on the web browser you might need to confirm the use of extended information from the YubiKey."
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_authenticate.php:27
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_register.php:27
+#: ./templates/plugin/CakeDC/Users/Users/u2f_authenticate.php:27
+#: ./templates/plugin/CakeDC/Users/Users/u2f_register.php:27
+msgid "Reload"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_authenticate.php:51
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_register.php:56
+#: ./templates/plugin/CakeDC/Users/Users/u2f_authenticate.php:51
+#: ./templates/plugin/CakeDC/Users/Users/u2f_register.php:56
+msgid "Yubico key check has failed, please try again"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/u2f_register.php:22
+#: ./templates/plugin/CakeDC/Users/Users/u2f_register.php:22
+msgid "Registering your yubico key"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/verify.php:13
+#: ./templates/plugin/CakeDC/Users/Users/verify.php:13
+msgid "Verification Code"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/verify.php:15
+#: ./templates/plugin/CakeDC/Users/Users/verify.php:15
+msgid "<span class=\"glyphicon glyphicon-log-in\" aria-hidden=\"true\"></span> Verify"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:19
+msgid "Delete User"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:24
+msgid "New User"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:31
+msgid "Id"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:37
+#: ./templates/plugin/CakeDC/Users/Users/index.php:47
+msgid "First Name"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:39
+#: ./templates/plugin/CakeDC/Users/Users/index.php:47
+msgid "Last Name"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:41
+#: ./templates/plugin/CakeDC/Users/Users/index.php:46
+#: ./templates/plugin/CakeDC/Users/Users/profile.php:33
+#: ./templates/plugin/CakeDC/Users/Users/view.php:91
+msgid "Role"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:45
+msgid "Api Token"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:53
+#: ./templates/plugin/CakeDC/Users/Users/view.php:106
+msgid "Token Expires"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:55
+msgid "Activation Date"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:57
+msgid "Tos Date"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:59
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:75
+#: ./templates/plugin/CakeDC/Users/Users/view.php:121
+msgid "Created"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:61
+#: ./templates/plugin/CakeDC/Users/Users/BACKUP/view.php:76
+#: ./templates/plugin/CakeDC/Users/Users/view.php:136
+msgid "Modified"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/add.php:21
+#: ./templates/plugin/CakeDC/Users/Users/edit.php:21
+msgid "User"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/Users/add.php:27
+msgid "Add"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/email/html/reset_password.php:14
+#: ./templates/plugin/CakeDC/Users/email/html/social_account_validation.php:14
+#: ./templates/plugin/CakeDC/Users/email/html/validation.php:13
+#: ./templates/plugin/CakeDC/Users/email/text/reset_password.php:12
+#: ./templates/plugin/CakeDC/Users/email/text/social_account_validation.php:12
+#: ./templates/plugin/CakeDC/Users/email/text/validation.php:12
+msgid "Hi {0}"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/email/html/reset_password.php:17
+msgid "Reset your password here"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/email/html/reset_password.php:20
+#: ./templates/plugin/CakeDC/Users/email/html/social_account_validation.php:23
+#: ./templates/plugin/CakeDC/Users/email/html/validation.php:19
+msgid "If the link is not correctly displayed, please copy the following address in your web browser {0}"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/email/html/reset_password.php:27
+#: ./templates/plugin/CakeDC/Users/email/html/social_account_validation.php:30
+#: ./templates/plugin/CakeDC/Users/email/html/validation.php:26
+#: ./templates/plugin/CakeDC/Users/email/text/reset_password.php:20
+#: ./templates/plugin/CakeDC/Users/email/text/social_account_validation.php:20
+#: ./templates/plugin/CakeDC/Users/email/text/validation.php:20
+msgid "Thank you"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/email/html/social_account_validation.php:18
+msgid "Activate your social login here"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/email/html/validation.php:16
+msgid "Activate your account here"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/email/text/reset_password.php:14
+#: ./templates/plugin/CakeDC/Users/email/text/validation.php:14
+msgid "Please copy the following address in your web browser {0}"
+msgstr ""
+
+#: ./templates/plugin/CakeDC/Users/email/text/social_account_validation.php:14
+msgid "Please copy the following address in your web browser to activate your social login {0}"
+msgstr ""
+

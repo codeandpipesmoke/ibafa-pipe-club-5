@@ -1,0 +1,1179 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-12-19 08:38+0000\n"
+"PO-Revision-Date: 2024-12-19 09:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: src/Controller/AppController.php:83 src/Controller/PostsController.php:72
+#: templates/element/breadcrumb.php:15 templates/element/breadcrumb.php:20
+#: templates/element/header.php:15
+msgid "Home"
+msgstr "Startseite"
+
+#: src/Controller/CitiesController.php:37
+#: src/Controller/DocumentsController.php:68
+#: src/Controller/FaqsController.php:38 src/Controller/FaqsController.php:42
+#: src/Controller/PagesController.php:42 src/Controller/PagesController.php:47
+#: src/Controller/PagesController.php:89 src/Controller/PagesController.php:94
+#: src/Controller/PostsController.php:55
+#: src/Controller/ProductsController.php:37
+msgid "Wrong address!"
+msgstr "Falsche Adresse!"
+
+#: src/Controller/CitiesController.php:47
+msgid "Selected settlement"
+msgstr "Ausgewählte Siedlung"
+
+#: src/Controller/CitiesController.php:55
+msgid "You tried to set a non-existent settlement!"
+msgstr "Sie haben versucht, eine nicht existierende Siedlung zu setzen!"
+
+#: src/Controller/DocumentsController.php:46 templates/Documents/index.php:22
+#: templates/element/footer.php:21
+msgid "Documents"
+msgstr "Dokumente"
+
+#: src/Controller/DocumentsController.php:47
+msgid "Downloadable Documents"
+msgstr "Herunterladbare Dokumente"
+
+#: src/Controller/DocumentsController.php:72
+msgid "Wrong HASH!"
+msgstr "Falscher HASH!"
+
+#: src/Controller/DocumentsController.php:82 templates/Documents/index.php:76
+#: templates/Documents/index.php:110
+msgid "Missing file!"
+msgstr "Fehlende Datei!"
+
+#: src/Controller/DocumentsController.php:101
+msgid "Wrong HASH or missing file!"
+msgstr "Falscher HASH oder fehlende Datei!"
+
+#: src/Controller/FaqsController.php:46 src/Controller/FaqsController.php:47
+#: templates/Faqs/index.php:17 templates/element/footer.php:24
+msgid "F.A.Q."
+msgstr "F.A.Q."
+
+#: src/Controller/LangsController.php:71 src/Controller/PagesController.php:37
+msgid "Missing language!"
+msgstr "Fehlende Sprache!"
+
+#: src/Controller/MaintenancesController.php:41
+msgid "Missing post!"
+msgstr "Fehlender Beitrag!"
+
+#: src/Controller/MessagesController.php:48
+msgid "Wrong address"
+msgstr "Falsche Adresse"
+
+#: src/Controller/MessagesController.php:52
+msgid "Wrong parameters"
+msgstr "Falsche Parameter"
+
+#: src/Controller/MessagesController.php:78
+msgid "Please enter the subject of the message!"
+msgstr "Bitte geben Sie den Betreff der Nachricht ein!"
+
+#: src/Controller/MessagesController.php:97
+#: src/Controller/OrdersController.php:87
+#: src/Controller/PdfinvoicesController.php:77
+msgid "Security code is required!"
+msgstr "Sicherheitscode ist erforderlich!"
+
+#: src/Controller/MessagesController.php:100
+#: src/Controller/OrdersController.php:91
+#: src/Controller/PdfinvoicesController.php:80
+msgid "You entered an incorrect security code!"
+msgstr "Sie haben einen falschen Sicherheitscode eingegeben!"
+
+#: src/Controller/MessagesController.php:107
+msgid ""
+"Thank you! We have received your message. Our colleagues will contact you "
+"soon at one of the contact details provided."
+msgstr ""
+"Vielen Dank! Wir haben Ihre Nachricht erhalten. Unsere Kollegen werden sich "
+"bald mit Ihnen über eine der angegebenen Kontaktmöglichkeiten in Verbindung "
+"setzen."
+
+#: src/Controller/MessagesController.php:112
+msgid ""
+"We could not send your message! Please review the information you provided "
+"and correct any errors."
+msgstr ""
+"Wir konnten Ihre Nachricht nicht senden! Bitte überprüfen Sie die "
+"angegebenen Informationen und korrigieren Sie eventuelle Fehler."
+
+#: src/Controller/OrdersController.php:51
+msgid "Hash error!"
+msgstr "Hash-Fehler!"
+
+#: src/Controller/OrdersController.php:96
+msgid "The order has been saved."
+msgstr "Die Bestellung wurde gespeichert."
+
+#: src/Controller/OrdersController.php:102
+msgid "The order could not be saved. Please, try again."
+msgstr ""
+"Die Bestellung konnte nicht gespeichert werden. Bitte versuchen Sie es "
+"erneut."
+
+#: src/Controller/PdfinvoicesController.php:85
+msgid "Congratulations! You have successfully registered for the PDF invoice!"
+msgstr ""
+"Herzlichen Glückwunsch! Sie haben sich erfolgreich für die PDF-Rechnung "
+"registriert!"
+
+#: src/Controller/PdfinvoicesController.php:90
+msgid "The pdfinvoice could not be saved. Please, try again."
+msgstr ""
+"Die PDF-Rechnung konnte nicht gespeichert werden. Bitte versuchen Sie es "
+"erneut."
+
+#: src/Controller/PdfinvoicesController.php:114
+msgid "You clicked on the wrong link!"
+msgstr "Sie haben auf den falschen Link geklickt!"
+
+#: src/Controller/PdfinvoicesController.php:120
+msgid "Wrong link!"
+msgstr "Falscher Link!"
+
+#: src/Controller/PdfinvoicesController.php:127
+msgid "You have already activated your registration for a PDF account."
+msgstr "Sie haben Ihre Registrierung für ein PDF-Konto bereits aktiviert."
+
+#: src/Controller/PdfinvoicesController.php:136
+msgid ""
+"Congratulations! You have successfully activated your PDF account "
+"registration. Please check your SPAM folder in your email system by the 10th "
+"of each month in the future to prevent our emails from landing there."
+msgstr ""
+"Herzlichen Glückwunsch! Sie haben Ihre PDF-Konto-Registrierung erfolgreich "
+"aktiviert. Bitte überprüfen Sie zukünftig bis zum 10. jeden Monats Ihren "
+"SPAM-Ordner in Ihrem E-Mail-System, um zu verhindern, dass unsere E-Mails "
+"dort landen."
+
+#: src/Controller/PdfinvoicesController.php:140
+msgid ""
+"You clicked on the wrong link! It is possible that you have already "
+"activated your registration for a PDF account."
+msgstr ""
+"Sie haben auf den falschen Link geklickt! Es ist möglich, dass Sie Ihre "
+"Registrierung für ein PDF-Konto bereits aktiviert haben."
+
+#: src/Controller/PostsController.php:66
+msgid "Posts"
+msgstr "Beiträge"
+
+#: src/Controller/PostsController.php:71 src/Controller/routes.php:68
+#: templates/element/header.php:15 templates/element/hero.php:15
+#: templates/element/hero.php:30 templates/layout/default.php:55
+msgid "home"
+msgstr "startseite"
+
+#: src/Controller/PostsController.php:101 src/Controller/routes.php:75
+#: templates/element/footer.php:31 templates/element/header.php:16
+msgid "actions"
+msgstr "aktionen"
+
+#: src/Controller/PostsController.php:188
+msgid "Wrong address! #1"
+msgstr "Falsche Adresse! #1"
+
+#: src/Controller/PricingsController.php:52
+#: src/Controller/PricingsController.php:53
+msgid "Individual package building"
+msgstr "Individuelle Paketgestaltung"
+
+#: src/Controller/ProductsController.php:47 src/Controller/routes.php:76
+#: templates/element/footer.php:33 templates/element/header.php:17
+msgid "catv"
+msgstr "kabelfernsehen"
+
+#: src/Controller/ProductsController.php:48
+#: src/Controller/ProductsController.php:49 templates/Pricings/index.php:58
+#: templates/element/footer.php:33 templates/element/header.php:17
+#: templates/element/hero.php:98
+msgid "Cable TV"
+msgstr "Kabelfernsehen"
+
+#: src/Controller/ProductsController.php:52 src/Controller/routes.php:77
+#: templates/element/footer.php:34 templates/element/header.php:18
+msgid "internet"
+msgstr "internet"
+
+#: src/Controller/ProductsController.php:53
+#: src/Controller/ProductsController.php:54 templates/Pricings/index.php:65
+#: templates/element/footer.php:34 templates/element/header.php:18
+#: templates/element/hero.php:107
+msgid "Internet"
+msgstr "Internet"
+
+#: src/Controller/ProductsController.php:57 src/Controller/routes.php:78
+#: templates/element/footer.php:35 templates/element/header.php:19
+msgid "phone"
+msgstr "telefon"
+
+#: src/Controller/ProductsController.php:58
+#: src/Controller/ProductsController.php:59 templates/element/footer.php:12
+#: templates/element/footer.php:35 templates/element/header.php:19
+msgid "Phone"
+msgstr "Telefon"
+
+#: src/Controller/routes.php:62
+msgid "change-language"
+msgstr "sprache-andern"
+
+#: src/Controller/routes.php:69
+msgid "posts"
+msgstr "beitrage"
+
+#: src/Controller/routes.php:70
+msgid "post"
+msgstr "beitrag"
+
+#: src/Controller/routes.php:71
+msgid "pages"
+msgstr "seiten"
+
+#: src/Controller/routes.php:72
+msgid "page"
+msgstr "seite"
+
+#: src/Controller/routes.php:73
+msgid "maintenances"
+msgstr "wartungen"
+
+#: src/Controller/routes.php:74
+msgid "maintenance"
+msgstr "wartung"
+
+#: src/Controller/routes.php:76
+msgid "catvs"
+msgstr "cabelfernsehen"
+
+#: src/Controller/routes.php:77
+msgid "internets"
+msgstr "internets"
+
+#: src/Controller/routes.php:78
+msgid "phones"
+msgstr "telefone"
+
+#: src/Controller/routes.php:79
+msgid "package-wizzard"
+msgstr "paket-zauberer"
+
+#: src/Controller/routes.php:80 templates/element/footer.php:37
+#: templates/element/header.php:21
+msgid "news"
+msgstr "nachrichten"
+
+#: src/Controller/routes.php:81
+msgid "categories"
+msgstr "categorien"
+
+#: src/Controller/routes.php:82
+msgid "post-view"
+msgstr "beitrag-ansicht"
+
+#: src/Controller/routes.php:83
+msgid "contact"
+msgstr "contakt"
+
+#: src/Controller/routes.php:84
+msgid "order"
+msgstr "cestellung"
+
+#: src/Controller/routes.php:85
+msgid "pdf-registration"
+msgstr "pdf-registrierung"
+
+#: src/Controller/routes.php:86
+msgid "pdf-activation"
+msgstr "pdf-aktivierung"
+
+#: src/Controller/routes.php:87
+msgid "frequently asked questions"
+msgstr "häufig gestellte fragen"
+
+#: src/Controller/routes.php:88
+msgid "dokuments"
+msgstr "dokumente"
+
+#: src/Controller/routes.php:89
+msgid "simplepay"
+msgstr "simplepay"
+
+#: src/Controller/routes.php:90
+msgid "download"
+msgstr "herunterladen"
+
+#: src/Controller/routes.php:91 templates/element/footer.php:22
+msgid "terms-and-conditions"
+msgstr "geschaftsbedingungen"
+
+#: src/Controller/routes.php:92
+msgid "pdf-bill"
+msgstr "pdf-rechnung"
+
+#: templates/Documents/index.php:40
+msgid "Current"
+msgstr "Aktuell"
+
+#: templates/Documents/index.php:46
+msgid "Archive"
+msgstr "Archiv"
+
+#: templates/Faqs/index.php:69
+msgid "Empty content! Please check back later!"
+msgstr "Inhalt leer! Bitte später wiederkommen!"
+
+#: templates/Maintenances/index.php:44 templates/Maintenances/view.php:39
+#: templates/element/maintenances.php:43
+msgid "Cities"
+msgstr "Städte"
+
+#: templates/Maintenances/view.php:45 templates/Pages/view.php:30
+msgid "Go back"
+msgstr "Zurückgehen"
+
+#: templates/Maintenances/view.php:45 templates/element/footer.php:38
+#: templates/element/header.php:22
+msgid "all"
+msgstr "alle"
+
+#: templates/Messages/add.php:14
+msgid "Please select whether<br>you are an existing customer or visitor."
+msgstr "Bitte wählen Sie, ob Sie<br>ein bestehender Kunde oder Besucher sind."
+
+#: templates/Messages/add.php:18
+msgid "Our client"
+msgstr "Unser Kunde"
+
+#: templates/Messages/add.php:22
+msgid "Visitor"
+msgstr "Besucher"
+
+#: templates/Messages/add.php:50
+msgid "Send a message to Sághy-Sat Kft."
+msgstr "Senden Sie eine Nachricht an Sághy-Sat Kft."
+
+#: templates/Messages/add.php:55 templates/Messages/add.php:205
+#: templates/Pdfinvoices/add.php:16
+msgid ""
+"Please enter your details and write us a message. After sending a message, "
+"our staff will contact you shortly using one of the contact details provided."
+msgstr ""
+"Bitte geben Sie Ihre Daten ein und schreiben Sie uns eine Nachricht. Nachdem "
+"Sie eine Nachricht gesendet haben, wird sich unser Personal bald über eine "
+"der angegebenen Kontaktmöglichkeiten mit Ihnen in Verbindung setzen."
+
+#: templates/Messages/add.php:58
+msgid ""
+"You can find your customer number in the upper left corner of your invoice."
+msgstr "Sie finden Ihre Kundennummer in der oberen linken Ecke Ihrer Rechnung."
+
+#: templates/Messages/add.php:67 templates/Messages/add.php:216
+#: templates/Orders/edit.php:51 templates/Orders/edit.php:301
+msgid "Service location data"
+msgstr "Servicestandortdaten"
+
+#: templates/Messages/add.php:70 templates/Pdfinvoices/add.php:29
+msgid "ID000000"
+msgstr "ID000000"
+
+#: templates/Messages/add.php:72 templates/Pdfinvoices/add.php:31
+msgid "Customer ID"
+msgstr "Kundennummer"
+
+#: templates/Messages/add.php:77 templates/Messages/add.php:79
+#: templates/Messages/add.php:219 templates/Messages/add.php:221
+#: templates/Orders/edit.php:54 templates/Orders/edit.php:56
+#: templates/Orders/edit.php:123 templates/Orders/edit.php:125
+#: templates/Pdfinvoices/add.php:53 templates/Pdfinvoices/add.php:55
+msgid "Full Name"
+msgstr "Vollständiger Name"
+
+#: templates/Messages/add.php:87 templates/Messages/add.php:94
+#: templates/Orders/edit.php:76 templates/Orders/edit.php:83
+#: templates/Orders/edit.php:273 templates/Orders/edit.php:292
+#: templates/Orders/edit.php:335 templates/Orders/edit.php:342
+#: templates/element/modal_select_city.php:16 templates/element/sidebar.php:18
+msgid "Please Select"
+msgstr "Bitte auswählen"
+
+#: templates/Messages/add.php:89 templates/Orders/edit.php:78
+#: templates/Orders/edit.php:142 templates/Orders/edit.php:144
+#: templates/Orders/edit.php:337 templates/Orders/edit.php:401
+#: templates/Orders/edit.php:403 templates/element/maintenances.php:41
+msgid "City"
+msgstr "Stadt"
+
+#: templates/Messages/add.php:96 templates/Orders/edit.php:85
+#: templates/Orders/edit.php:149 templates/Orders/edit.php:151
+#: templates/Orders/edit.php:344 templates/Orders/edit.php:408
+#: templates/Orders/edit.php:410
+msgid "Street"
+msgstr "Straße"
+
+#: templates/Messages/add.php:101 templates/Messages/add.php:103
+#: templates/Orders/edit.php:90 templates/Orders/edit.php:92
+#: templates/Orders/edit.php:156 templates/Orders/edit.php:158
+#: templates/Orders/edit.php:349 templates/Orders/edit.php:351
+#: templates/Orders/edit.php:415 templates/Orders/edit.php:417
+msgid "House"
+msgstr "Haus"
+
+#: templates/Messages/add.php:108 templates/Messages/add.php:110
+#: templates/Orders/edit.php:97 templates/Orders/edit.php:99
+#: templates/Orders/edit.php:163 templates/Orders/edit.php:165
+#: templates/Orders/edit.php:356 templates/Orders/edit.php:358
+#: templates/Orders/edit.php:422 templates/Orders/edit.php:424
+msgid "Door"
+msgstr "Tür"
+
+#: templates/Messages/add.php:115 templates/Messages/add.php:117
+#: templates/Orders/edit.php:104 templates/Orders/edit.php:106
+#: templates/Orders/edit.php:170 templates/Orders/edit.php:172
+#: templates/Orders/edit.php:363 templates/Orders/edit.php:365
+#: templates/Orders/edit.php:429 templates/Orders/edit.php:431
+msgid "Geo.Num."
+msgstr "Geo.Nr."
+
+#: templates/Messages/add.php:125 templates/Messages/add.php:127
+#: templates/Messages/add.php:152 templates/Messages/add.php:229
+#: templates/Messages/add.php:231 templates/Messages/add.php:256
+#: templates/Orders/edit.php:225 templates/Orders/edit.php:227
+#: templates/Orders/edit.php:469 templates/Orders/edit.php:471
+#: templates/Pdfinvoices/add.php:65 templates/Pdfinvoices/add.php:67
+#: templates/element/footer.php:13
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: templates/Messages/add.php:132 templates/Messages/add.php:236
+#: templates/Orders/edit.php:232 templates/Orders/edit.php:476
+#: templates/Pdfinvoices/add.php:72
+msgid "+36 12/345-67-89"
+msgstr "+36 12/345-67-89"
+
+#: templates/Messages/add.php:134 templates/Messages/add.php:238
+#: templates/Orders/edit.php:234 templates/Orders/edit.php:478
+#: templates/Pdfinvoices/add.php:74
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: templates/Messages/add.php:142 templates/Messages/add.php:144
+#: templates/Messages/add.php:246 templates/Messages/add.php:248
+#: templates/Pdfinvoices/add.php:43
+msgid "Message theme"
+msgstr "Nachrichtenthema"
+
+#: templates/Messages/add.php:142 templates/Messages/add.php:246
+#: templates/Pdfinvoices/add.php:43
+msgid "Please select"
+msgstr "Bitte wählen"
+
+#: templates/Messages/add.php:154 templates/Messages/add.php:258
+msgid "Your message"
+msgstr "Ihre Nachricht"
+
+#: templates/Messages/add.php:166 templates/Messages/add.php:314
+#: templates/Orders/edit.php:246 templates/Orders/edit.php:531
+#: templates/Pdfinvoices/add.php:196 templates/element/modal_select_city.php:19
+msgid "Submit"
+msgstr "Absenden"
+
+#: templates/Messages/add.php:201
+msgid "Visitor message to Sághy-Sat Kft."
+msgstr "Nachricht des Besuchers an Sághy-Sat Kft."
+
+#: templates/Orders/edit.php:10
+msgid ""
+"You have not filled out the form correctly. Please correct the marked fields."
+msgstr ""
+"Sie haben das Formular nicht korrekt ausgefüllt. Bitte korrigieren Sie die "
+"markierten Felder."
+
+#: templates/Orders/edit.php:11
+msgid "Must be entered."
+msgstr "Muss eingetragen werden."
+
+#: templates/Orders/edit.php:12
+msgid "Must be at least 8 characters!"
+msgstr "Muss mindestens 8 Zeichen lang sein!"
+
+#: templates/Orders/edit.php:13
+msgid "Wrong e-mail address!"
+msgstr "Falsche E-Mail-Adresse!"
+
+#: templates/Orders/edit.php:14
+msgid "Invalid URL!"
+msgstr "Ungültige URL!"
+
+#: templates/Orders/edit.php:15
+msgid "Only letters and numbers!"
+msgstr "Nur Buchstaben und Zahlen!"
+
+#: templates/Orders/edit.php:16
+msgid "Just write letters!"
+msgstr "Schreiben Sie nur Buchstaben!"
+
+#: templates/Orders/edit.php:17
+msgid ""
+"Only letters and numbers and - or ' are allowed! Please enter your full name "
+"(with a space)!"
+msgstr ""
+"Es sind nur Buchstaben und Zahlen sowie - oder ' erlaubt! Bitte geben Sie "
+"Ihren vollständigen Namen ein (mit Leerzeichen)!"
+
+#: templates/Orders/edit.php:18
+msgid "You can only write numbers, unaccented capital letters, and spaces!"
+msgstr ""
+"Sie können nur Zahlen, unbetonte Großbuchstaben und Leerzeichen schreiben!"
+
+#: templates/Orders/edit.php:19
+msgid "It can only contain [+, /, -] signs and numbers!"
+msgstr "Es darf nur [+ , /, -] Zeichen und Zahlen enthalten!"
+
+#: templates/Orders/edit.php:38
+msgid "Customer data"
+msgstr "Kundendaten"
+
+#: templates/Orders/edit.php:42 templates/Orders/edit.php:282
+msgid ""
+"With the provided data, we prepare the customer's data sheet and contract. "
+"Please make sure to enter the data accurately!"
+msgstr ""
+"Mit den bereitgestellten Daten bereiten wir das Datenblatt und den Vertrag "
+"des Kunden vor. Bitte stellen Sie sicher, dass die Daten korrekt eingegeben "
+"werden!"
+
+#: templates/Orders/edit.php:115 templates/Orders/edit.php:374
+msgid "Billing data is the same as the data of the service location."
+msgstr ""
+"Die Rechnungsdaten sind die gleichen wie die Daten des Servicestandorts."
+
+#: templates/Orders/edit.php:120 templates/Orders/edit.php:379
+#: templates/Pdfinvoices/add.php:81
+msgid "Billing address"
+msgstr "Rechnungsadresse"
+
+#: templates/Orders/edit.php:182 templates/Orders/edit.php:184
+msgid "Birthplace"
+msgstr "Geburtsort"
+
+#: templates/Orders/edit.php:189 templates/Orders/edit.php:191
+msgid "Birthday"
+msgstr "Geburtstag"
+
+#: templates/Orders/edit.php:196 templates/Orders/edit.php:198
+msgid "Mother's name"
+msgstr "Name der Mutter"
+
+#: templates/Orders/edit.php:208
+msgid "ID Number"
+msgstr "Personalausweisnummer"
+
+#: templates/Orders/edit.php:210
+msgid "ID or Passport Number"
+msgstr "Personalausweis- oder Reisepassnummer"
+
+#: templates/Orders/edit.php:215 templates/Orders/edit.php:217
+msgid "Address Card Number"
+msgstr "Adresskartennummer"
+
+#: templates/Orders/edit.php:273 templates/Pdfinvoices/add.php:43
+msgid "Company"
+msgstr "Firma"
+
+#: templates/Orders/edit.php:273 templates/Pdfinvoices/add.php:43
+msgid "Institution"
+msgstr "Institution"
+
+#: templates/Orders/edit.php:278
+msgid "Company or institution data"
+msgstr "Firmen- oder Institutionsdaten"
+
+#: templates/Orders/edit.php:295
+msgid "Company or institution?"
+msgstr "Firma oder Institution?"
+
+#: templates/Orders/edit.php:305
+msgid "Last Name"
+msgstr "Nachname"
+
+#: templates/Orders/edit.php:307 templates/Orders/edit.php:382
+#: templates/Orders/edit.php:385
+msgid "Company or institution name"
+msgstr "Firmen- oder Institutionsname"
+
+#: templates/Orders/edit.php:313
+msgid "First Name"
+msgstr "Vorname"
+
+#: templates/Orders/edit.php:315 templates/Orders/edit.php:390
+#: templates/Orders/edit.php:393
+msgid "Name continuation"
+msgstr "Namensfortsetzung"
+
+#: templates/Orders/edit.php:441 templates/Orders/edit.php:444
+msgid "Tax number"
+msgstr "Steuernummer"
+
+#: templates/Orders/edit.php:449 templates/Orders/edit.php:452
+msgid "Group member's tax number"
+msgstr "Steuernummer des Gruppenmitglieds"
+
+#: templates/Orders/edit.php:457 templates/Orders/edit.php:460
+msgid "Company reg. num."
+msgstr "HR-Nummer"
+
+#: templates/Orders/edit.php:486
+msgid "Comment"
+msgstr "Kommentar"
+
+#: templates/Orders/edit.php:488
+msgid "Comments. Please write your other messages here."
+msgstr "Kommentare. Bitte schreiben Sie hier Ihre anderen Nachrichten."
+
+#: templates/Orders/edit.php:494 templates/element/form_captcha.php:2
+msgid "Security code (CAPTCHA)"
+msgstr "Sicherheitscode (CAPTCHA)"
+
+#: templates/Orders/edit.php:501 templates/element/form_captcha.php:12
+msgid "Please write here the security code from above"
+msgstr "Bitte schreiben Sie hier den oben stehenden Sicherheitscode"
+
+#: templates/Orders/edit.php:509 templates/element/form_checkbox_toc.php:5
+msgid "Read T.O.C."
+msgstr "A.G.B. lesen"
+
+#: templates/Orders/edit.php:521 templates/element/form_checkbox_toc.php:17
+msgid "I have read and accept the terms and conditions"
+msgstr ""
+"Ich habe die Allgemeinen Geschäftsbedingungen gelesen und akzeptiere sie"
+
+#: templates/Orders/edit.php:583 templates/element/flash/default_s_w_a_l.php:12
+#: templates/element/flash/success.php:13
+#: templates/element/flash/success_s_w_a_l.php:12
+msgid "Success"
+msgstr "Erfolg"
+
+#: templates/Orders/edit.php:584
+msgid "Success ok"
+msgstr "Erfolg ok"
+
+#: templates/Pages/index.php:31
+msgid "Read More"
+msgstr "Mehr lesen"
+
+#: templates/Pdfinvoices/add.php:12
+msgid "Registration to PDF invoice."
+msgstr "Registrierung für PDF-Rechnung."
+
+#: templates/Pdfinvoices/add.php:19
+msgid "The customer number is located in the upper left corner of the invoice."
+msgstr "Die Kundennummer befindet sich in der oberen linken Ecke der Rechnung."
+
+#: templates/Pdfinvoices/add.php:37
+#: templates/element/modal_help_customer_id.php:8
+msgid "Help"
+msgstr "Hilfe"
+
+#: templates/Pdfinvoices/add.php:43
+msgid "Individual"
+msgstr "Individuell"
+
+#: templates/Pdfinvoices/add.php:45
+msgid "Type"
+msgstr "Typ"
+
+#: templates/Pdfinvoices/add.php:85 templates/Pdfinvoices/add.php:87
+msgid "Settlement"
+msgstr "Siedlung"
+
+#: templates/Pdfinvoices/add.php:92 templates/Pdfinvoices/add.php:94
+msgid "Address"
+msgstr "Adresse"
+
+#: templates/Pdfinvoices/add.php:114
+msgid ""
+"I agree that Sághy-Sat Kft. may contact me with information related to the "
+"service."
+msgstr ""
+"Ich stimme zu, dass die Sághy-Sat Kft. mich mit Informationen zum Dienst "
+"kontaktieren darf."
+
+#: templates/Pdfinvoices/add.php:131
+msgid ""
+"I agree that Sághy-Sat Kft. may contact me by email with marketing offers."
+msgstr ""
+"Ich stimme zu, dass die Sághy-Sat Kft. mich per E-Mail mit "
+"Marketingangeboten kontaktieren darf."
+
+#: templates/Pdfinvoices/add.php:148
+msgid ""
+"I agree that the data provided may be transferred to a 3rd party for "
+"marketing purposes."
+msgstr ""
+"Ich stimme zu, dass die angegebenen Daten zu Marketingzwecken an Dritte "
+"weitergegeben werden dürfen."
+
+#: templates/Pdfinvoices/add.php:165
+msgid ""
+"I agree that I may be contacted verbally or by SMS at the provided telephone "
+"number regarding the service."
+msgstr ""
+"Ich stimme zu, dass ich telefonisch oder per SMS unter der angegebenen "
+"Telefonnummer bezüglich des Dienstes kontaktiert werden darf."
+
+#: templates/Pdfinvoices/add.php:182
+msgid "I have read and acknowledged the data processing policy."
+msgstr ""
+"Ich habe die Datenverarbeitungsrichtlinie gelesen und zur Kenntnis genommen."
+
+#: templates/Posts/_maintenances.php:3 templates/element/footer.php:38
+#: templates/element/header.php:22 templates/element/maintenances.php:15
+#: templates/element/maintenances.php:28 templates/element/sidebar.php:59
+msgid "Maintenances"
+msgstr "Wartungen"
+
+#: templates/Posts/index.php:11
+msgid "Sorry!"
+msgstr "Entschuldigung!"
+
+#: templates/Posts/index.php:12
+msgid "No content found in this section."
+msgstr "In diesem Abschnitt wurde kein Inhalt gefunden."
+
+#: templates/Pricings/ajax_get_catvs.php:6
+#: templates/Pricings/ajax_get_digitvs.php:6
+#: templates/Pricings/ajax_get_nets.php:6
+#: templates/Pricings/ajax_get_tels.php:6
+msgid "Advanced"
+msgstr "Fortgeschritten"
+
+#: templates/Pricings/ajax_get_catvs.php:27
+#: templates/Pricings/ajax_get_digitvs.php:22
+#: templates/Pricings/ajax_get_nets.php:27
+#: templates/Pricings/ajax_get_offers.php:119
+#: templates/Pricings/ajax_get_offers.php:120
+#: templates/Pricings/ajax_get_offers.php:272
+#: templates/Pricings/ajax_get_offers.php:273
+#: templates/Pricings/ajax_get_tels.php:27
+msgid "I want this"
+msgstr "Ich möchte das"
+
+#: templates/Pricings/ajax_get_catvs.php:27
+#: templates/Pricings/ajax_get_digitvs.php:22
+#: templates/Pricings/ajax_get_nets.php:27
+#: templates/Pricings/ajax_get_tels.php:27
+msgid "Has been selected"
+msgstr "Wurde ausgewählt"
+
+#: templates/Pricings/ajax_get_offers.php:13
+#: templates/Pricings/ajax_get_offers.php:167
+msgid "Special offer"
+msgstr "Sonderangebot"
+
+#: templates/Pricings/ajax_get_offers.php:17
+#: templates/Pricings/ajax_get_offers.php:164
+msgid "Our package offers based on the selected services"
+msgstr "Unsere Paketangebote basieren auf den ausgewählten Diensten"
+
+#: templates/Pricings/ajax_get_offers.php:20
+msgid "Selected products"
+msgstr "Ausgewählte Produkte"
+
+#: templates/Pricings/ajax_get_offers.php:52
+#: templates/Pricings/ajax_get_offers.php:67
+#: templates/Pricings/ajax_get_offers.php:206
+#: templates/Pricings/ajax_get_offers.php:222
+msgid "Package price"
+msgstr "Paketpreis"
+
+#: templates/Pricings/ajax_get_offers.php:64
+#: templates/Pricings/ajax_get_offers.php:219
+msgid "Products total"
+msgstr "Produkte insgesamt"
+
+#: templates/Pricings/ajax_get_offers.php:101
+#: templates/Pricings/ajax_get_offers.php:254
+msgid "Digitals total"
+msgstr "Digitales insgesamt"
+
+#: templates/Pricings/ajax_get_offers.php:111
+#: templates/Pricings/ajax_get_offers.php:263
+msgid "Total"
+msgstr "Gesamt"
+
+#: templates/Pricings/ajax_get_offers.php:129
+msgid "More offers"
+msgstr "Weitere Angebote"
+
+#: templates/Pricings/ajax_get_offers.php:173
+msgid "You might also be interested in this compilation"
+msgstr "Sie könnten auch an dieser Zusammenstellung interessiert sein"
+
+#: templates/Pricings/index.php:18
+msgid ""
+"Please answer whether you wish to be<br>an individual or corporate (or "
+"institutional) subscriber."
+msgstr ""
+"Bitte beantworten Sie, ob Sie ein<br>privater oder gewerblicher (oder "
+"institutioneller) Abonnent sein möchten."
+
+#: templates/Pricings/index.php:21
+msgid "Current city is"
+msgstr "Aktuelle Stadt ist"
+
+#: templates/Pricings/index.php:38
+msgid "Individual subscriber"
+msgstr "Privatabonnent"
+
+#: templates/Pricings/index.php:42
+msgid "Company or institution"
+msgstr "Firma oder Institution"
+
+#: templates/Pricings/index.php:50
+msgid "Choose from services"
+msgstr "Wählen Sie aus den Dienstleistungen"
+
+#: templates/Pricings/index.php:52
+msgid "Click on the desired services"
+msgstr "Klicken Sie auf die gewünschten Dienste"
+
+#: templates/Pricings/index.php:72 templates/element/hero.php:115
+msgid "Telephone"
+msgstr "Telefon"
+
+#: templates/Pricings/index.php:78
+msgid ""
+"Telephone service can only be used in conjunction with cable TV and/or "
+"Internet service."
+msgstr ""
+"Telefonservice kann nur in Verbindung mit Kabel-TV und/oder Internetdienst "
+"genutzt werden."
+
+#: templates/Pricings/index.php:80
+msgid "Please select cable TV and/or Internet service first!"
+msgstr "Bitte wählen Sie zuerst Kabel-TV und/oder Internetdienst!"
+
+#: templates/Pricings/index.php:86
+msgid "Our cable TV packages"
+msgstr "Unsere Kabel-TV-Pakete"
+
+#: templates/Pricings/index.php:93
+msgid "Our packages can be viewed for a monthly fee"
+msgstr "Unsere Pakete sind gegen eine monatliche Gebühr einsehbar"
+
+#: templates/Pricings/index.php:95
+msgid "Can be requested with Cable TV Extended Package"
+msgstr "Kann mit dem erweiterten Kabel-TV-Paket angefordert werden"
+
+#: templates/Pricings/index.php:102
+msgid "Our Internet packages"
+msgstr "Unsere Internetpakete"
+
+#: templates/Pricings/index.php:109
+msgid "Our phone packages"
+msgstr "Unsere Telefonpakete"
+
+#: templates/Pricings/index.php:122
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: templates/Pricings/index.php:124
+msgid "I would like the price offers"
+msgstr "Ich hätte gerne die Preisangebote"
+
+#: templates/element/cta_message_to_us.php:8
+msgid "Error reporting!"
+msgstr "Fehlermeldung!"
+
+#: templates/element/cta_message_to_us.php:9
+msgid ""
+"If you experience an error or anomaly, please click on the error report "
+"button to report it!"
+msgstr ""
+"Wenn Sie einen Fehler oder eine Anomalie feststellen, klicken Sie bitte auf "
+"die Schaltfläche Fehlermeldung, um diesen zu melden!"
+
+#: templates/element/cta_message_to_us.php:13
+msgid "Report an error"
+msgstr "Einen Fehler melden"
+
+#: templates/element/cta_package_wizard.php:8
+msgid "Set up your <span>own package</span> here!"
+msgstr "Stellen Sie hier Ihr <span>eigenes Paket</span> zusammen!"
+
+#: templates/element/cta_package_wizard.php:9
+msgid "Click on the \"Package Wizard\" button and follow the instructions!"
+msgstr ""
+"Klicken Sie auf die Schaltfläche \"Paket-Assistent\" und folgen Sie den "
+"Anweisungen!"
+
+#: templates/element/cta_package_wizard.php:13
+#: templates/element/cta_package_wizard.php:14
+msgid "Package Wizard"
+msgstr "Paket-Assistent"
+
+#: templates/element/flash/default.php:13
+msgid "Message"
+msgstr "Nachricht"
+
+#: templates/element/flash/error.php:13
+#: templates/element/flash/error_s_w_a_l.php:12
+msgid "Error"
+msgstr "Fehler"
+
+#: templates/element/flash/info.php:13
+#: templates/element/flash/info_s_w_a_l.php:12
+msgid "Info"
+msgstr "Info"
+
+#: templates/element/flash/warning.php:13
+#: templates/element/flash/warning_s_w_a_l.php:12
+msgid "Warning"
+msgstr "Warnung"
+
+#: templates/element/footer.php:11
+msgid "9 Ady Endre Street,<br>7754 Bóly,<br>Hungary"
+msgstr "Ady Endre Straße 9,<br>7754 Bóly,<br>Ungarn"
+
+#: templates/element/footer.php:12
+msgid "+36 69/696-696"
+msgstr "+36 69/696-696"
+
+#: templates/element/footer.php:13
+msgid "info@saghysat.hu"
+msgstr "info@saghysat.hu"
+
+#: templates/element/footer.php:18
+msgid "Informations"
+msgstr "Informationen"
+
+#: templates/element/footer.php:20
+msgid "Company details"
+msgstr "Firmendaten"
+
+#: templates/element/footer.php:20
+msgid "impressum"
+msgstr "Impressum"
+
+#: templates/element/footer.php:22
+msgid "T.O.C."
+msgstr "A.G.B."
+
+#: templates/element/footer.php:23
+msgid "Privacy Policy"
+msgstr "Datenschutzrichtlinie"
+
+#: templates/element/footer.php:23
+msgid "privacy-policy"
+msgstr "Datenschutzrichtlinie"
+
+#: templates/element/footer.php:29
+msgid "Our Services"
+msgstr "Unsere Dienstleistungen"
+
+#: templates/element/footer.php:31 templates/element/header.php:16
+msgid "Actions"
+msgstr "Aktionen"
+
+#: templates/element/footer.php:37 templates/element/header.php:21
+msgid "News"
+msgstr "Nachrichten"
+
+#: templates/element/footer.php:39 templates/element/header.php:74
+msgid "Contact"
+msgstr "Kontakt"
+
+#: templates/element/footer.php:72
+msgid "Copyright by"
+msgstr "Urheberrecht bei"
+
+#: templates/element/footer.php:72 templates/layout/default.php:11
+msgid "Sághy-Sat Kft."
+msgstr "Sághy-Sat Kft."
+
+#: templates/element/form_captcha.php:14
+msgid "Security code"
+msgstr "Sicherheitscode"
+
+#: templates/element/hero.php:89
+msgid "Action"
+msgstr "Aktion"
+
+#: templates/element/hero.php:90
+msgid "Browse our current promotions"
+msgstr "Durchsuchen Sie unsere aktuellen Angebote"
+
+#: templates/element/hero.php:99
+msgid "Browse our Cable TV services"
+msgstr "Durchsuchen Sie unsere Kabel-TV-Dienste"
+
+#: templates/element/hero.php:108
+msgid "Browse our Internet services"
+msgstr "Durchsuchen Sie unsere Internetdienste"
+
+#: templates/element/hero.php:116
+msgid "Browse our Telephone services"
+msgstr "Durchsuchen Sie unsere Telefondienste"
+
+#: templates/element/hero.php:141
+msgid "Children on the Internet"
+msgstr "Kinder im Internet"
+
+#: templates/element/hero.php:145
+msgid "You have the tools!"
+msgstr "Sie haben die Werkzeuge!"
+
+#: templates/element/hero.php:146
+msgid "Take action for your child's digital safety!"
+msgstr "Handeln Sie für die digitale Sicherheit Ihres Kindes!"
+
+#: templates/element/hero.php:147
+msgid "Cyberbullying - Hurting others is not cool!"
+msgstr "Cyberbullying - Andere zu verletzen ist nicht cool!"
+
+#: templates/element/hero.php:149 templates/element/hero.php:150
+msgid "Children on the Internet!"
+msgstr "Kinder im Internet!"
+
+#: templates/element/hero.php:150
+msgid "children-on-the-internet"
+msgstr "kinder-im-internet"
+
+#: templates/element/hero.php:157 templates/element/hero.php:160
+msgid "Pay your bill"
+msgstr "Bezahlen Sie Ihre Rechnung"
+
+#: templates/element/hero.php:159
+msgid ""
+"You can also pay your bill online. Click the Pay Bill button below. After "
+"filling out the form, you can pay your bill immediately."
+msgstr ""
+"Sie können Ihre Rechnung auch online bezahlen. Klicken Sie auf die "
+"Schaltfläche Rechnung bezahlen unten. Nach dem Ausfüllen des Formulars "
+"können Sie Ihre Rechnung sofort bezahlen."
+
+#: templates/element/hero.php:161
+msgid "Pay bill!"
+msgstr "Rechnung bezahlen!"
+
+#: templates/element/hero.php:168 templates/element/hero.php:171
+#: templates/element/hero.php:172
+msgid "Register to PDF bill"
+msgstr "Für PDF-Rechnung registrieren"
+
+#: templates/element/hero.php:170
+msgid "Register for a PDF account and we will send you your invoice by email!"
+msgstr ""
+"Registrieren Sie sich für ein PDF-Konto und wir senden Ihnen Ihre Rechnung "
+"per E-Mail!"
+
+#: templates/element/maintenances.php:10
+msgid "Settlement maintenance!"
+msgstr "Siedlungswartung!"
+
+#: templates/element/maintenances.php:11
+msgid ""
+"All previous maintenance can be viewed by clicking on the \"Maintenances\" "
+"button."
+msgstr ""
+"Alle früheren Wartungen können durch Klicken auf die Schaltfläche "
+"„Wartungen“ angezeigt werden."
+
+#: templates/element/maintenances.php:30
+msgid "Planned and extraordinary maintenance of Sághy-Sat Kft."
+msgstr "Geplante und außerordentliche Wartung der Sághy-Sat Kft."
+
+#: templates/element/modal_help_customer_id.php:8
+#: templates/element/modal_help_customer_id.php:12
+msgid "Where is your customer number?"
+msgstr "Wo ist Ihre Kundennummer?"
+
+#: templates/element/modal_help_customer_id.php:15
+msgid "Close"
+msgstr "Schließen"
+
+#: templates/element/modal_read_toc.php:8
+msgid "Privacy and data management policy"
+msgstr "Datenschutz- und Datenverwaltungspolitik"
+
+#: templates/element/modal_read_toc.php:15
+msgid "Understood"
+msgstr "Verstanden"
+
+#: templates/element/modal_select_city.php:8
+msgid "Select City"
+msgstr "Stadt auswählen"
+
+#: templates/element/modal_select_city.php:15
+msgid "Please select your city"
+msgstr "Bitte wählen Sie Ihre Stadt aus"
+
+#: templates/element/modal_select_city.php:16 templates/element/sidebar.php:18
+msgid "cities"
+msgstr "Städte"
+
+#: templates/element/powercuts.php:6
+msgid "Planned power outages at"
+msgstr "Geplante Stromausfälle bei"
+
+#: templates/element/powercuts.php:6
+msgid "-nál!"
+msgstr "-bei!"
+
+#: templates/element/powercuts.php:12
+msgid "Planned maintenance announced by E-ON in the following settlements."
+msgstr ""
+"Geplante Wartung, die von E-ON in den folgenden Siedlungen angekündigt wurde."
+
+#: templates/element/sidebar.php:16
+msgid "Current city"
+msgstr "Aktuelle Stadt"
+
+#: templates/element/sidebar.php:18
+msgid "Please select city"
+msgstr "Bitte Stadt auswählen"
+
+#: templates/element/sidebar.php:22
+msgid "Search"
+msgstr "Suche"
+
+#: templates/element/sidebar.php:32
+msgid "Categories"
+msgstr "Kategorien"
+
+#: templates/element/sidebar.php:44
+msgid "Recent Posts"
+msgstr "Neueste Beiträge"
+
+#: templates/layout/default.php:15
+msgid "Sághy-Sat Kft a térség Kábeltévé, Internet és telefon szolgáltatója."
+msgstr ""
+"Sághy-Sat Kft ist der Kabel-TV-, Internet- und Telefonanbieter der Region."
+
+#: templates/layout/error.php:36
+msgid "Back"
+msgstr "Zurück"
+
+#~ msgid "telefon"
+#~ msgstr "telefon"
+
+#~ msgid "Akciók"
+#~ msgstr "Aktionen"
