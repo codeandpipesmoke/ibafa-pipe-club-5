@@ -113,6 +113,12 @@ class AboutsTable extends Table
             ->requirePresence('text_4', 'create')
             ->notEmptyString('text_4');
 
+            $validator
+            ->scalar('google_map_url')
+            ->maxLength('google_map_url', 1000)
+            ->requirePresence('google_map_url', 'create')
+            ->notEmptyString('google_map_url');
+
         $validator
             ->nonNegativeInteger('visible')
             ->notEmptyString('visible');

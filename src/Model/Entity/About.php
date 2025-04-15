@@ -47,6 +47,7 @@ class About extends Entity
         'title_4' => true,
         'text_4' => true,
         'visible' => true,
+        'google_map_url' => true,
         'pos' => true,
         'created' => true,
         'modified' => true,

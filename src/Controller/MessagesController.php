@@ -53,51 +53,51 @@ class MessagesController extends AppController
 					//if(!isset($this->lang) || null === $this->lang){
 					//	$lang = 'hu';			
 					//}
-					$template = $this->fetchTable('Emailtemplates')->find('all', conditions: ['lang' => $lang, 'slug' => 'message-confirmation'])->first();
+					//$template = $this->fetchTable('Emailtemplates')->find('all', conditions: ['lang' => $lang, 'slug' => 'message-confirmation'])->first();
 					
 					
 					// -------------- Visszaigazolás a feladónak ----------------------
-					$confirmation_mailer = new Mailer('default');
-					
-					$confirmation_mailer->setFrom([$about->email => $about->name])
-						->setEmailFormat('html')
-						->setTo($message->email)
-						->setSubject($template->title);
+					//$confirmation_mailer = new Mailer('default');
+					//
+					//$confirmation_mailer->setFrom([$about->email => $about->name])
+					//	->setEmailFormat('html')
+					//	->setTo($message->email)
+					//	->setSubject($template->title);
 						
 
-					try {
-						if($confirmation_mailer->deliver($template->body)){
-							//$this->Flash->success(__('The message has been sent.'));
-						}else{
-							//$this->Flash->error(__('The message could not be sent. Please, try again.'));
-						}
-					} catch (\Exception $e) {
-						$this->Flash->error($e->getMessage());						
-					}					
+					//try {
+					//	if($confirmation_mailer->deliver($template->body)){
+					//		//$this->Flash->success(__('The message has been sent.'));
+					//	}else{
+					//		//$this->Flash->error(__('The message could not be sent. Please, try again.'));
+					//	}
+					//} catch (\Exception $e) {
+					//	$this->Flash->error($e->getMessage());						
+					//}					
 					
 
 					// ------------ a cégnek ---------------
-					$mailer = new Mailer('default');
-					$mailer->setFrom([$message->email => $message->name])
-						->setEmailFormat('html')
-						->setTo($about->email)
-						->setSubject('Üzenet a weboldalról');
+					//s$mailer = new Mailer('default');
+					//s$mailer->setFrom([$message->email => $message->name])
+					//s	->setEmailFormat('html')
+					//s	->setTo($about->email)
+					//s	->setSubject('Üzenet a weboldalról');
 
-					$body  = "<h4><span style='font-weight: bold;'>Tárgy:</span> <span style='font-weight: normal;'>" . $message->subject . "</span></h4>";
-					$body .= "<span style='font-weight: bold;'>Üzenet:</span><br>\n<span style='font-weight: bold;'>" . str_replace("\n", "<br>", $message->body) . "</span><br>\n";;
+					//$body  = "<h4><span style='font-weight: bold;'>Tárgy:</span> <span style='font-weight: normal;'>" . $message->subject . "</span></h4>";
+					//$body .= "<span style='font-weight: bold;'>Üzenet:</span><br>\n<span style='font-weight: bold;'>" . str_replace("\n", "<br>", $message->body) . "</span><br>\n";;
 					
-					try {
-						if($mailer->deliver($body)){
-							$this->Flash->success(__('The message has been sent.'));
-						}else{
-							$this->Flash->error(__('The message could not be sent. Please, try again.'));
-						}
-					} catch (\Exception $e) {
-						$this->Flash->error($e->getMessage());						
-					}					
+					//try {
+					//	if($mailer->deliver($body)){
+					//		$this->Flash->success(__('The message has been sent.'));
+					//	}else{
+					//		$this->Flash->error(__('The message could not be sent. Please, try again.'));
+					//	}
+					//} catch (\Exception $e) {
+					//	$this->Flash->error($e->getMessage());						
+					//}					
 
-					
-					return $this->redirect(['action' => 'add', $lang]);
+					$this->Flash->success(__('The message has been sent. ;-)'));
+					return $this->redirect(['action' => 'add']);
 
 				}
 				$this->Flash->error(__('The message could not be sent. Please, try again.'));

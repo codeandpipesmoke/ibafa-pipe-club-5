@@ -3,7 +3,6 @@
 	<?php $this->assign('active', 'contact') ?>
 
 	<main id="main">
-
 		<!-- ======= Contact Section ======= -->
 <?php if(isset($about->google_map_url) && $about->google_map_url != '') { ?>
 		<div class="map-section shadow">
@@ -14,14 +13,14 @@
 		<section id="contact" class="contact">
 		  <div class="container">
 
-			<div class="row justify-content-center" data-aos="fade-down" style="min-height: 400px;">
+			<div class="row justify-content-center" data-aos="fade-down">
 			  <div class="col-lg-10">
 				<div class="info-wrap shadow">
 					<div class="row">
 						<div class="col-lg-4 info">
 							<i class="bi bi-geo-alt"></i>
 							<h4><?= __('Location') ?>:</h4>
-							<p><?= $about->address ?? 'Ibafa'?></p>
+							<p><?= $about->address ?? '7935 Ibafa, Arany János u. 2.'?></p>
 						</div>
 
 						<div class="col-lg-4 info mt-4 mt-lg-0">
@@ -33,30 +32,29 @@
 						<div class="col-lg-4 info mt-4 mt-lg-0">
 							<i class="bi bi-phone"></i>
 							<h4><?= __('Call') ?>:</h4>
-							<p><?= $about->phone ?? '+36 20/000-00-00 (később)' ?></p>
+							<p><?= $about->phone ?? '+36 20/000-00-00 ... ' . __('later') ?></p>
 						</div>
 					</div>
 				</div>
 			  </div>
 			</div>
 
-<?php /*
 			<div class="row mt-5 justify-content-center" data-aos="fade-up">
 			  <div class="col-lg-10">
 				<?= $this->Form->create($message, ['class' => 'php-email-form']) ?>
 				  <div class="row">
 					<div class="col-md-6 form-group">
-						<?= $this->Form->control('name', ['class' => 'form-control', 'placeholder' => __('Your Name'), 'required' => 0]) ?>
+						<?= $this->Form->control('name', ['class' => 'form-control', 'placeholder' => __('Your Name'), 'required' => true]) ?>
 					</div>
 					<div class="col-md-6 form-group mt-3 mt-md-0">
-						<?= $this->Form->control('email', ['class' => 'form-control', 'placeholder' => __('Your Email'), 'required' => 0]) ?>
+						<?= $this->Form->control('email', ['class' => 'form-control', 'placeholder' => __('Your Email'), 'required' => true]) ?>
 					</div>
 				  </div>
 				  <div class="form-group mt-3">
-						<?= $this->Form->control('subject', ['class' => 'form-control', 'placeholder' => __('Subject'), 'required' => 0]) ?>
+						<?= $this->Form->control('subject', ['class' => 'form-control', 'placeholder' => __('Subject'), 'required' => true]) ?>
 				  </div>
 				  <div class="form-group mt-3">
-					<?= $this->Form->control('body', ['class' => 'form-control', 'placeholder' => __('Message'), 'rows' => '5', 'required' => 0]) ?>
+					<?= $this->Form->control('body', ['class' => 'form-control', 'placeholder' => __('Message'), 'rows' => '5', 'required' => true]) ?>
 				  </div>
 
 				  <div class="form-group mt-3">
@@ -66,23 +64,21 @@
 					</div>
 				  </div>
 				  <div class="form-group mt-3">
-						<?= $this->Form->control('captcha', ['class' => 'form-control', 'placeholder' => __('Please write here the security code from above'), 'required' => 0]) ?>
+						<?= $this->Form->control('captcha', ['class' => 'form-control', 'placeholder' => __('Please write here the security code from above'), 'required' => true]) ?>
 				  </div>
 
-<?php
-//				  <div class="my-3">
-//					<div class="loading">Loading</div>
-//					<div class="error-message"></div>
-//					<div class="sent-message">Your message has been sent. Thank you!</div>
-//				  </div>
-//
-?>
+<?php /*
+				  <div class="my-3">
+					<div class="loading">Loading</div>
+					<div class="error-message"></div>
+					<div class="sent-message">Your message has been sent. Thank you!</div>
+				  </div>
+*/ ?>
 				  <div class="text-center">
 					<?= $this->Form->button(__('Send Message')) ?>
 				  </div>
 				</form>
 			  </div>
-*/ ?>
 
 			</div>
 

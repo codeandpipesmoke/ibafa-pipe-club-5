@@ -28,6 +28,9 @@ use Cake\Controller\Controller;
  */
 class AppController extends Controller
 {
+    public $Abouts = null;
+    public $about = null;
+
     /**
      * Initialization hook method.
      *
@@ -57,6 +60,10 @@ class AppController extends Controller
 		$controller = $this->request->getParam('controller');
 		$action = $this->request->getParam('action');
 		
+        $this->Abouts = $this->fetchTable('Abouts');
+        $this->about = $this->Abouts->get(1);
+        $this->set('about', $this->about);
+
 		//debug($plugin);
 		//debug($controller);
 		//dd($action);

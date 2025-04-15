@@ -39,7 +39,8 @@ class AboutsController extends AppController
 		//$breadcrumbs['breadcrumb'][] = ['title' => $page->pagecategory->name, "controller" => "Pages", "action" => "index", $this->lang->slug, "param" => [$page->pagecategory->slug]];
 		$breadcrumbs['breadcrumb']['title'] = __("About us");
 
-        $about = $this->Abouts->get($id, contain: []);
+        //$about = $this->Abouts->get($id, contain: []);
+        $about = $this->about;
 
 		$members = $this->Members->find()->where(['visible' => true])->order(['pos' => 'asc', 'name' => 'asc']);
 
